@@ -3,12 +3,11 @@
 
 
   <head>
-    <title>Larissa Feng: coffee, code, repeat.</title>
+    <title>Larissa Feng: coffee. code. cats.</title>
     
     <!-- Styling -->
     <link rel="stylesheet" href="css/larissafeng.css">
-    <link href='https://fonts.googleapis.com/css?family=Satisfy|Ubuntu|Courgette' rel='stylesheet' type='text/css'>
-
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:700,400|Lato:400,300' rel='stylesheet' type='text/css'>
     <!-- Scripts -->
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/larissafeng.js"></script>
@@ -16,11 +15,12 @@
 
 
   <body>
+    <div id="hide-overflow-wrapper">
     <nav>
-         <a class="navbutton" id="#experience"> experience </a>
-         <a class="navbutton" id="#projects"> projects </a>
-         <a class="navbutton" id="#education"> education </a>
-         <a class="navbutton" id="#about"> about </a>
+         <a class="navbutton" id="#professional"> professional </a>
+         <a class="navbutton" id="#play"> play </a>
+         <a class="navbutton" id="#practice"> practice </a>
+         <a class="navbutton" id="#profile"> profile </a>
     </nav>
 
 
@@ -28,7 +28,7 @@
       <div class="content-wrapper">
           <div id="header-wrapper">
               <h1 id="header-name">Larissa Feng</h1>
-              <h4 id="header-tagline"> coffee, code, repeat. </h4>
+              <h4 id="header-tagline"> coffee. code. cats. </h4>
           </div>
           <div id="header-icons-wrapper">
            <a target="_blank" href="http://www.github.com/mondayrain"> <img class="header-icon" id="github-icon" src="images/github-icon.png"  alt="Github"> </a>
@@ -38,32 +38,71 @@
     </header>
 
 
-    <section class="colouredsection" id="experience">
-         <div class="content-wrapper">
-            <h3> experience </h3>
-            <p> Not entirely sure what to do with this section </p>
+    <section class="colouredsection" id="professional">
+         <div class="content-wrapper" id="professional-content-wrapper">
+            <h2> professional </h2>
+            <p> download my resume,</p>
+            <p> or see my <a target="_blank" href="http://ca.linkedin.com/in/larissafeng"> LinkedIn </a> for more </p>
+            <div id=professional-wrapper">
+                <div class="professional-section" id="work">
+                    <div id="work-wrapper">
+                        <h5> work </h5>
+                        <div class="work-entry">
+                            <h4> Demonware (Activision) </h4>
+                            <p class="work-position"> Software Development Intern (Sept 2014 - Aug 2015)</p>
+                            <p class="work-description"> At Demonware, I worked on the Title Development Team. Along with writing/maintaining online features for Activision titles, we were also responsible for providing front-line support to the game studios, and helping ops prepare/deploy new environments. Games I worked on include <a target="_blank" href="http://www.guitarhero.com/ca/en/"> Guitar Hero Live </a>(FreeStyleGames), <a target="_blank" href="http://store.steampowered.com/app/310790/"> Geometry Wars 3 </a>(Lucid Games), and <a target="_blank" href="http://www.sierra.com/shiftlings"> Shiftings </a>(Rock Pocket Games). </p>
+                       </div>
+                        <div class="work-entry">
+                            <h4> University of British Columbia </h4>
+                            <p class="work-position"> Undergraduate Teaching Assistant (Jan 2014 - Aug 2014) </p>
+                            <p class="work-description"> I worked as a UTA for CPSC 221: Basic Algorithms and Data Structures. This mostly entailed tutoring students during office hours, marking assignments, and running weekly review sessions on C++.
+                        </div>
+                    </div>
+                </div>
+                <div class="professional-section">
+                    <div id="tech-wrapper">
+                        <h5> tech </h5>
+                        <div class="tech-entry">
+                            <h4> Languages </h4>
+                            <p> Python,  Java, C++. C#, HTML, Javascript, Prolog, Haskell </p>
+                        </div>
+                        <div class="tech-entry">
+                            <h4> Environments </h4>
+                            <p> Ubuntu 14.04+, CentOS6+, Windows 7+ </p>
+                        </div>
+                        <div class="tech-entry">
+                            <h4> Frameworks </h4>
+                            <p> Android, Django, Flask </p>
+                        </div>
+                        <div class="tech-entry">
+                            <h4> Tools </h4>
+                            <p>  Git, Docker, Vagrant </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
          </div>
     </section>
 
-    <section class="transpsection" id="projects">
+    <section class="transpsection" id="play">
         <div class="content-wrapper">
-           <h3> projects </h3>
-           <p> stuff here</p>
+           <h2> play </h2>
+           <p> check out my code at <a target="_blank", href="http://www.github.com/mondayrain">GitHub</a></p>
         </div>
     </section>
 
-    <section class="colouredsection" id="education">
+    <section class="colouredsection" id="practice">
        <div class="content-wrapper">
-            <h3> education </h3>
+            <h2> practice </h2>
        </div>
     </section>
 
-    <footer class="transpsection" id="about">
-       <div class="content-wrapper">
-          <h3> get to know me! </h3>
-          <p> Blah blah blah </p>
-      </div>
-    </footer>
-
+    <section class="transpsection" id="profile">
+       <div class="content-wrapper" id="profile-content-wrapper">
+           <img id="okc-image" src="images/profile.png"  alt="profile">
+           </img>
+       </div>
+    </section>
+  </div>
   </body>
 </html>

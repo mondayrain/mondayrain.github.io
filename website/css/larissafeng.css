@@ -7,45 +7,78 @@ html {
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    max-width: 100vw;
+    height: 100%;
+}
+
+#hide-overflow-wrapper {
+    overflow: hidden;
 }
 
 section {
     height: 100vh;
+    padding-top: 5vh;
+}
+
+section p {
+    font-size: 110%;
+    word-spacing: 1px;
+    margin: 0;
+    padding-top: 2px;
+}
+
+section a {
+    text-decoration: none;
+    font-size: 85%;
+    color: white;
+    font-weight: bold;
 }
 
 .colouredsection {
-    background-color: cornflowerblue;
+    background-color: rgb(16, 77, 161);
+    color: white;
 }
 
-.colouredsection h3, p {
-    color: white;
+.colouredsection h5 {
+    font-size: 125%;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+}
+
+.colouredsection p {
+    
 }
 
 .transpsection {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    color: white;
 }
 
-.transpsection h3, p {
-    color: cornflowerblue;
+.transpsection h5 {
+    font-size: 125%;
+    margin-top: 3vh;
+}
+
+.transpsection p {
 }
 
 a {
      text-decoration: none;
 }
 
-h3 {
-   font-size: 200%;
-   font-family: 'Courgette', cursive;
+h2 {
+   font-size: 300%;
+   font-family: 'Lato', sans-serif;
 }
 
 .content-wrapper {
     margin: 0 auto;
     padding: 75px 0;
-    width: 800px;
+    width: 100vw;
     text-align: center;
 }
 
@@ -64,7 +97,7 @@ nav {
     background-color: cornflowerblue;
     opacity: 0.85;
     font-size: 100%;
-    font-family: 'Courgette', cursive;
+    font-family: 'Lato', sans-serif;
     text-align: center;
 }
 
@@ -77,14 +110,15 @@ nav a {
 
 .navbutton {
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 18px;
     padding-left: 25px;
     padding-right: 25px;
 }
 
+
 /* -- header section --*/
 header {
-    background-image: linear-gradient(rgba(70,130,180, 0.8), rgba(0,0,205, 0.2)), url(../images/header-bkg.jpg);
+    background-image: linear-gradient(rgba(16,77,161, 0.8), rgba(0,0,205, 0.2)), url(../images/header-bkg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -101,52 +135,125 @@ header {
 }
 
 .header-icon {
-    max-height: 8%;
-    max-width: 8%;
+    max-height: 7vh;
     height: auto;
     width: auto\9; /* ie8 */
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-#gihub-icon:hover {
-    src: "images/github-icon-hover.png";  
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 h1 {
+    font-family: 'Droid Serif', serif;
     font-size: 600%;
     color: white;
     padding-bottom: 2px;
     margin-bottom: 0px;
 }
 
-h4 {
-    font-family: 'Courgette', cursive;
-    font-size: 150%;
+/* Section headers */
+h2 {
+    font-family: 'Droid Serif', serif;
+    font-size: 250%;
     color: white;
     padding: 0;
     margin: 0;
 }
 
-/* -- experience section */
-#experience {
+/* Tagline and section sub-headers */
+h4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    font-size: 175%;
+    color: white;
+    padding: 0;
+    margin: 0;
 }
 
-/* -- projects section -- */
-#projects {
-    background-image: url(../images/projects-bkg.png);
+#professional-wrapper h4 {
+    font-family: 'Droid Serif', serif;
 }
 
-/* -- education section -- */
-#education {
+
+
+/* -- professional section */
+#professional {
+    height: 120vh;
 }
 
-/* -- about section -- */
-#about {
-    background-image: url(../images/about-bkg.png);
+#professional-content-wrapper p {
+    padding-top: 2px;
 }
 
-/* -- footer -- */
-footer {
-    height: 100vh;
-}   
+#professional-wrapper {
+    overflow: hidden;
+}
+
+.professional-section {
+    float: left;
+    width: 50%;
+    padding-top: 1.5%; 
+    text-align: left;
+}
+
+.professional-section h4 {
+    font-family: "Droid Serif", serif;
+}
+
+#work {
+}
+
+#work-wrapper {
+   padding-left: 20%;
+}
+
+.work-entry {
+    padding-top: 3%;
+}
+
+.work-position {
+    padding: 0px;
+    margin: 0px;
+    font-style: italic;
+    font-color: white;
+    font-size: 110%;
+}
+
+#tech-wrapper{
+    padding-left: 18%;
+}
+
+.tech-entry {
+    padding-top: 4%;
+}
+
+/* -- play section -- */
+#play {
+    background-image: url(../images/play-bkg.png);
+    background-repeat: no-repeat;    
+}
+
+/* -- practice section -- */
+#practice {
+}
+
+/* -- profile section -- */
+#profile {
+    background-image: linear-gradient(rgba(16,77,161, 0.8), rgba(0,0,205, 0.2)), url(../images/profile-bkg.JPG);
+    background-size: cover;
+    background-position: center;
+}
+
+#profile-content-wrapper {
+    padding-top: 7vh;
+    padding-bottom: 0px;
+}
+
+#okc-image {
+     opacity: 0.9;
+     max-width: 42vw;
+     height: auto;
+     padding-top: 5px;
+     padding-bottom: 0;
+     margin: 0;
+    
+}
