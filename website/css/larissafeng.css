@@ -67,6 +67,7 @@ section a:hover {
 nav a {
     display: inline-block;
     font-size: 1.5em;
+    font-weight: lighter;
     cursor:pointer;
     color: white;
     text-decoration: none;
@@ -216,9 +217,6 @@ Mobile portrait: 480;
        font-family: 'Lato', sans-serif;
     }
 }
-
-
-
 
 /* -- NAV BAR --*/
 nav {
