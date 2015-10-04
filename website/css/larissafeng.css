@@ -1,0 +1,152 @@
+/* --- GLOBAL STYLES --- */
+
+html {
+    box-sizing: border-box;
+}
+ 
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+}
+
+section {
+    height: 100vh;
+}
+
+.colouredsection {
+    background-color: cornflowerblue;
+}
+
+.colouredsection h3, p {
+    color: white;
+}
+
+.transpsection {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.transpsection h3, p {
+    color: cornflowerblue;
+}
+
+a {
+     text-decoration: none;
+}
+
+h3 {
+   font-size: 200%;
+   font-family: 'Courgette', cursive;
+}
+
+.content-wrapper {
+    margin: 0 auto;
+    padding: 75px 0;
+    width: 800px;
+    text-align: center;
+}
+
+/* Apply a natural box layout model to all elements,
+but allowing components to change */
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+/* -- NAV BAR --*/
+nav {
+    height: 10vh;
+    width: 100vw;
+    position: fixed;
+    background-color: cornflowerblue;
+    opacity: 0.85;
+    font-size: 100%;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    font-size: 1.5em;
+    cursor:pointer;
+    color: white;
+}
+
+.navbutton {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/* -- header section --*/
+header {
+    background-image: linear-gradient(rgba(70,130,180, 0.8), rgba(0,0,205, 0.2)), url(../images/header-bkg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+
+#header-wrapper {
+    padding-top: 15vh;
+}
+
+#header-icons-wrapper {
+    padding-top: 10vh;
+}
+
+.header-icon {
+    max-height: 8%;
+    max-width: 8%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#gihub-icon:hover {
+    src: "images/github-icon-hover.png";  
+}
+
+h1 {
+    font-size: 600%;
+    color: white;
+    padding-bottom: 2px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-family: 'Courgette', cursive;
+    font-size: 150%;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+/* -- experience section */
+#experience {
+}
+
+/* -- projects section -- */
+#projects {
+    background-image: url(../images/projects-bkg.png);
+}
+
+/* -- education section -- */
+#education {
+}
+
+/* -- about section -- */
+#about {
+    background-image: url(../images/about-bkg.png);
+}
+
+/* -- footer -- */
+footer {
+    height: 100vh;
+}   
