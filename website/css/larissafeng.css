@@ -1,9 +1,10 @@
-/* --- GLOBAL STYLES --- */
+/* --- ALL VIEWS --- */
 
+/* Global styles*/
 html {
     box-sizing: border-box;
 }
- 
+
 body {
     padding: 0;
     margin: 0;
@@ -15,64 +16,6 @@ body {
 
 #hide-overflow-wrapper {
     overflow: hidden;
-}
-
-section {
-    height: 100vh;
-    padding-top: 5vh;
-}
-
-section p {
-    font-size: 105%;
-    word-spacing: 1px;
-    margin: 0;
-    padding-top: 2px;
-}
-
-section a {
-    text-decoration: none;
-    font-size: 85%;
-    color: white;
-    font-weight: bold;
-}
-
-.colouredsection {
-    background-color: rgb(16, 77, 161);
-    color: white;
-}
-
-.colouredsection h5 {
-    font-size: 125%;
-    margin-top: 3vh;
-    margin-bottom: 1vh;
-}
-
-.colouredsection p {
-    
-}
-
-.transpsection {
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    color: white;
-}
-
-.transpsection h5 {
-    font-size: 125%;
-    margin-top: 3vh;
-}
-
-.transpsection p {
-}
-
-a {
-     text-decoration: none;
-}
-
-h2 {
-   font-size: 300%;
-   font-family: 'Lato', sans-serif;
 }
 
 .content-wrapper {
@@ -88,17 +31,37 @@ but allowing components to change */
   box-sizing: inherit;
 }
 
+a {
+     text-decoration: none;
+     color: white;
+     font-weight: bolder;
+}
 
-/* -- NAV BAR --*/
-nav {
-    height: 10vh;
-    width: 100vw;
-    position: fixed;
-    background-color: cornflowerblue;
-    opacity: 0.85;
-    font-size: 100%;
-    font-family: 'Lato', sans-serif;
-    text-align: center;
+/* Sections */
+section {
+        height: 100vh;
+        padding-top: 5vh;
+}
+
+section a:hover {
+    color: LightBlue;
+}
+
+.colouredsection {
+    background-color: rgb(16, 77, 161);
+    color: white;
+}
+
+.transpsection {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+/* Nav */
+.navbutton:hover{
+    font-weight: normal;
 }
 
 nav a {
@@ -106,19 +69,17 @@ nav a {
     font-size: 1.5em;
     cursor:pointer;
     color: white;
-}
-
-.navbutton {
-    padding-top: 15px;
-    padding-bottom: 18px;
-    padding-left: 25px;
-    padding-right: 25px;
+    text-decoration: none;
 }
 
 
-/* -- header section --*/
+.header-wrapper h4 {
+    text-shadow: -1px 0.5px 0.5px black;
+}
+
+/* Header Section*/
 header {
-    background-image: linear-gradient(rgba(16,77,161, 0.8), rgba(0,0,205, 0.2)), url(../images/header-bkg.jpg);
+    background-image: linear-gradient(rgba(47,79,79, 0.8), rgba(108,108,108, 0.2)), url(../images/header-bkg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -132,6 +93,150 @@ header {
 
 #header-icons-wrapper {
     padding-top: 10vh;
+}
+
+#professional-wrapper h4 {
+    font-family: 'Droid Serif', serif;
+}
+
+/* Professional Section */
+#professional {
+}
+
+.professional-section h4 {
+    font-family: "Droid Serif", serif;
+}
+
+#professional-content-wrapper p {
+    padding: 0;
+    margin: 0;
+}
+
+#professional-wrapper {
+    overflow: hidden;
+}
+
+.professional-section {
+    float: left;
+    width: 50%;
+    padding-top: 1.5%;
+    text-align: left;
+}
+
+.work-position {
+    padding: 0px;
+    margin: 0px;
+    font-style: italic;
+    font-color: white;
+    font-size: 110%;
+}
+
+/* Play Section */
+#play {
+    background-image: linear-gradient(rgba(47,79,79, 0.6), rgba(108,108,108, 0.2)), url(../images/play-bkg.png);
+    background-repeat: no-repeat;
+}
+
+/* Practice Session */
+#practice {
+}
+
+/* Profile Section */
+#profile {
+    background-image: linear-gradient(rgba(47,79,79, 0.8), rgba(108,108,108, 0.5)), url(../images/profile-bkg.JPG);
+    background-size: cover;
+    background-position: center;
+}
+
+#profile-content-wrapper {
+    padding-top: 7vh;
+    padding-bottom: 0px;
+}
+
+#okc-image {
+     opacity: 0.9;
+     max-width: 42vw;
+     height: auto;
+     padding-top: 5px;
+     padding-bottom: 0;
+     margin: 0;
+}
+
+
+/*
+Breakpoints:
+Tablet landscape: 1024px
+Tablet portrait: 940px
+Small tablet: 768px;
+Mobile landscape: 600
+Mobile portrait: 480;
+*/
+
+@media (min-width 1024px) {
+
+    section p {
+        font-size: 105%;
+        word-spacing: 1px;
+        margin: 0;
+        padding-top: 2px;
+    }
+
+    section a {
+        text-decoration: none;
+        font-size: 85%;
+        color: white;
+        font-weight: bold;
+    }
+}
+
+
+
+@media (min-width 1024px) {
+    .colouredsection h5 {
+        font-size: 125%;
+        margin-top: 3vh;
+        margin-bottom: 1vh;
+    }
+}
+
+
+
+@media (min-width 1024px) {
+    .transpsection h5 {
+        font-size: 125%;
+        margin-top: 3vh;
+    }
+}
+
+
+
+@media (min-width 1024px) {
+    h2 {
+       font-size: 300%;
+       font-family: 'Lato', sans-serif;
+    }
+}
+
+
+
+
+/* -- NAV BAR --*/
+nav {
+    height: 10vh;
+    width: 100vw;
+    position: fixed;
+    background-color: cornflowerblue;
+    opacity: 0.85;
+    font-size: 100%;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+.navbutton {
+    padding-top: 15px;
+    padding-bottom: 18px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .header-icon {
@@ -148,6 +253,7 @@ h1 {
     color: white;
     padding-bottom: 2px;
     margin-bottom: 0px;
+    text-shadow: -1px 0.5px 0.5px black;
 }
 
 /* Section headers */
@@ -169,36 +275,6 @@ h4 {
     margin: 0;
 }
 
-#professional-wrapper h4 {
-    font-family: 'Droid Serif', serif;
-}
-
-
-
-/* -- professional section */
-#professional {
-    height: 120vh;
-}
-
-#professional-content-wrapper p {
-    padding-top: 2px;
-}
-
-#professional-wrapper {
-    overflow: hidden;
-}
-
-.professional-section {
-    float: left;
-    width: 50%;
-    padding-top: 1.5%; 
-    text-align: left;
-}
-
-.professional-section h4 {
-    font-family: "Droid Serif", serif;
-}
-
 #work {
 }
 
@@ -210,50 +286,10 @@ h4 {
     padding-top: 3%;
 }
 
-.work-position {
-    padding: 0px;
-    margin: 0px;
-    font-style: italic;
-    font-color: white;
-    font-size: 110%;
-}
-
-#tech-wrapper{
+#tech-wrapper {
     padding-left: 18%;
 }
 
 .tech-entry {
     padding-top: 4%;
-}
-
-/* -- play section -- */
-#play {
-    background-image: url(../images/play-bkg.png);
-    background-repeat: no-repeat;    
-}
-
-/* -- practice section -- */
-#practice {
-}
-
-/* -- profile section -- */
-#profile {
-    background-image: linear-gradient(rgba(16,77,161, 0.8), rgba(0,0,205, 0.2)), url(../images/profile-bkg.JPG);
-    background-size: cover;
-    background-position: center;
-}
-
-#profile-content-wrapper {
-    padding-top: 7vh;
-    padding-bottom: 0px;
-}
-
-#okc-image {
-     opacity: 0.9;
-     max-width: 42vw;
-     height: auto;
-     padding-top: 5px;
-     padding-bottom: 0;
-     margin: 0;
-    
 }
