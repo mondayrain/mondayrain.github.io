@@ -64,7 +64,7 @@ h1 {
 /* Sections */
 section {
         height: 100vh;
-        padding-top: 5vh;
+        padding-top: 3vh;
 }
 
 
@@ -249,7 +249,9 @@ header {
 
 .work-position {
     padding: 0px;
+    padding-bottom: 5px;
     margin: 0px;
+    font-weight: bolder;
     font-style: italic;
     font-color: white;
     font-size: 110%;
@@ -263,22 +265,30 @@ header {
     padding-top: 4%;
 }
 
-/* Play Section */
+/* Play/Practice Section */
 #play {
     background-image: linear-gradient(rgba(79,79,79, 0.7), rgba(108,108,108, 0.5)), url(../images/play-bkg.png);
     background-repeat: no-repeat;
 }
 
 #play-wrapper {
-    padding-left: 9%;
-
+    padding-left: 4%;
 }
 
-.play-section {
+#practice-wrapper {
+    padding-left: 10vw;
+}
+
+.play-section, .practice-section {
     float: left;
     text-align: left;
     width: 30vw;
     padding-left: 40px;
+}
+
+.practice-section {
+    padding-top: 1%;
+    width: 40vw;
 }
 
 h5 a {
@@ -286,20 +296,28 @@ h5 a {
     font-weight: normal;
 }
 
-.play-section h4 {
+.play-section h4, .practice-section h4 {
     font-family: "Droid Serif", serif;
 }
 
-.play-entry {
+.play-section h5, .practice-section h5 {
+    margin-bottom: 2vh;
+}
+
+.play-entry, .practice-entry {
     padding-bottom: 2vh;
 }
 
-.play-tech {
+.play-tech, .practice-role {
     font-style: italic;
-    padding-top: 5px;   
+    padding-top: 5px;
 }
 
-.play-description {
+.practice-role {
+    font-weight: bolder;
+}
+
+.play-description, .practice-description {
     font-weight: lighter;
     padding-top: 3px;
 }
@@ -345,11 +363,11 @@ Mobile portrait: 480;
     }
 
     section h4 {
-        font-size: 125%;     
+        font-size: 125%;
     }
 
     #work-wrapper {
-        padding-left: 8%;; 
+        padding-left: 8%;;
     }
 
     #tech-wrapper {
@@ -362,7 +380,7 @@ Mobile portrait: 480;
 
     #okc-image {
         display: none;
-    } 
+    }
 }
 
 @media (max-width: 940px) {
@@ -374,7 +392,7 @@ Mobile portrait: 480;
     #profile {
         padding-top: 7vh;
     }
-    
+
     .work-position {
         font-size: 103%;
         font-weight: bolder;
@@ -452,7 +470,7 @@ Mobile portrait: 480;
     }
 
     nav a {
-        font-size: 1.3em;        
+        font-size: 1.3em;
     }
 
     h1 {
@@ -491,7 +509,7 @@ Mobile portrait: 480;
     }
 
     .work-description {
-        display: none; 
+        display: none;
     }
 }
 
@@ -499,4 +517,4 @@ Mobile portrait: 480;
     #profile {
         background-size: contain;
     }
-}  
+}
