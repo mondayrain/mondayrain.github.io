@@ -122,7 +122,16 @@ section a {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    font-weight: normal;
     color: white;
+}
+
+.transpsection p {
+    font-weight: lighter;
+    padding-top: 10px;
+}
+
+.transpsection a {
 }
 
 .transpsection h5 {
@@ -256,8 +265,43 @@ header {
 
 /* Play Section */
 #play {
-    background-image: linear-gradient(rgba(47,79,79, 0.6), rgba(108,108,108, 0.2)), url(../images/play-bkg.png);
+    background-image: linear-gradient(rgba(79,79,79, 0.7), rgba(108,108,108, 0.5)), url(../images/play-bkg.png);
     background-repeat: no-repeat;
+}
+
+#play-wrapper {
+    padding-left: 9%;
+
+}
+
+.play-section {
+    float: left;
+    text-align: left;
+    width: 30vw;
+    padding-left: 40px;
+}
+
+h5 a {
+    font-style: normal;
+    font-weight: normal;
+}
+
+.play-section h4 {
+    font-family: "Droid Serif", serif;
+}
+
+.play-entry {
+    padding-bottom: 2vh;
+}
+
+.play-tech {
+    font-style: italic;
+    padding-top: 5px;   
+}
+
+.play-description {
+    font-weight: lighter;
+    padding-top: 3px;
 }
 
 /* Practice Session */
@@ -324,7 +368,7 @@ Mobile portrait: 480;
 @media (max-width: 940px) {
 
     section p {
-        font-size: 90%;        
+        font-size: 90%;
     }
 
     #profile {
