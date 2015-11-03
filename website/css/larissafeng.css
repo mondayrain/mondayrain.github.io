@@ -334,19 +334,38 @@ h5 a {
 }
 
 #profile-content-wrapper {
-    padding-top: 7vh;
+    padding-top: 12vh;
     padding-bottom: 0px;
+    text-align: center;
+    max-width: 75%;
 }
 
-#okc-image {
-     opacity: 0.9;
-     max-width:40vw;
-     height: auto;
-     padding-top: 5px;
-     padding-bottom: 0;
-     margin: 0;
+#summary p {
+    font-family: "Droid Serif", serif;
+    font-size: 4vh;
+    padding-top: 4vh;
 }
 
+#contact p {
+    font-size: 3vh;
+}
+
+/* Footer */
+footer {
+    width: 100vw;
+    background-color: cornflowerblue;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    text-align: center;
+    opacity: 0.9;
+}
+
+footer p {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-weight: bolder;
+}
 
 /*
 Breakpoints:
