@@ -267,7 +267,7 @@ header {
 
 /* Play/Practice Section */
 #play {
-    background-image: linear-gradient(rgba(79,79,79, 0.7), rgba(108,108,108, 0.5)), url(../images/play-bkg.png);
+    background-image: linear-gradient(rgba(79,79,79, 0.7), rgba(108,108,108, 0.7)), url(../images/play-bkg.png);
     background-repeat: no-repeat;
 }
 
@@ -328,9 +328,13 @@ h5 a {
 
 /* Profile Section */
 #profile {
-    background-image: linear-gradient(rgba(47,79,79, 0.8), rgba(108,108,108, 0.5)), url(../images/profile-bkg.JPG);
+    background-image: linear-gradient(rgba(47,79,79, 0.8), rgba(108,108,108, 0.7)), url(../images/profile-bkg.JPG);
     background-size: cover;
     background-position: center;
+}
+
+#profile p {
+    padding: 0;
 }
 
 #profile-content-wrapper {
@@ -348,6 +352,7 @@ h5 a {
 
 #contact p {
     font-size: 3vh;
+    padding-top: 2vh;
 }
 
 /* Footer */
