@@ -1,0 +1,33 @@
+html,
+body
+{
+    height: 100%;
+    margin: 0;
+    padding: 0px;
+}
+
+section
+{
+    padding-top: 100px;
+    height: 100vh;
+}
+
+#profile
+{
+    background-color: lightcoral;
+}
+
+#play
+{
+    background-color: lightskyblue;
+}
+
+#practice
+{
+    background-color: lightcoral;
+}
+
+#professional
+{
+    background-color: lightskyblue;
+}
