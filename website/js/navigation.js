@@ -1,4 +1,5 @@
-/*! Main */
+/*! All the JS related to the navbar and navigating the page */
+
 jQuery(document).ready(function($) {
 
     var navbar = $('#navbar-main'),
@@ -18,7 +19,7 @@ jQuery(document).ready(function($) {
 
     // Smooth scroll to section on navbar click
     $("#profilenavbutton").click(function() {
-        $('#profile').ScrollTo();
+        $('body').ScrollTo();
     });
 
     $("#playnavbutton").click(function() {
@@ -33,4 +34,11 @@ jQuery(document).ready(function($) {
         $('#professional').ScrollTo();
     });
 
+    // Since Scrollspy requires an href link in the <a> tag
+    // but we don't want to jump to a section (since we're doing smooth scroll),
+    // we need to cancel any default navbar link actions
+    $('.preventlink').click(function(e)
+    {
+        e.preventDefault();
+    });
 });
