@@ -1,3 +1,3 @@
 # larissafeng.me
 
-Portfolio website, started at [Ladies Learning Code](http://ladieslearningcode.com/) Hackapalooza, and always a work in progress.
+My website - at times an attempt at a portfolio, at other times a simple contact page. Always a work in progress.
