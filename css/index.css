@@ -16,6 +16,8 @@ body
 .centered
 {
     text-align:center;
+    padding-right: 5vw;
+    padding-left: 5vw;
 }
 
 .vertical-center {
@@ -42,10 +44,9 @@ body
     opacity: 0.75;
 }
 
-
 #landing-header
 {
-    font-size: 15vh;
+    font-size: 12.5vh;
 }
 
 #icons-container
@@ -53,6 +54,20 @@ body
     padding-top: 5vh;
 }
 
+#resume-details
+{
+    font-size: 17px;
+}
+
+
+a
+{
+    color: inherit;
+}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { opacity: 0.75 }
 
 /* -- STYLES SHARED ACROSS SECTIONS -- */
 section
