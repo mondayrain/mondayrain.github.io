@@ -17,6 +17,18 @@ body
     text-align:center;
 }
 
+.no-break
+{
+    display: inline;
+}
+
+.bold-title
+{
+    font-weight: bold;
+    font-style: oblique;
+}
+
+
 #landing-header
 {
     font-size: 20vh;
@@ -46,3 +58,5 @@ section
 {
     background-color: darkslategray;
 }
+
+/* -- SPECIFIC ELEMENT STYLES -- */
