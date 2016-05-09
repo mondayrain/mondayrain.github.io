@@ -37,6 +37,11 @@ body
     font-style: oblique;
 }
 
+.icon:hover
+{
+    opacity: 0.75;
+}
+
 
 #landing-header
 {
