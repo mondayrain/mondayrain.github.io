@@ -1,3 +1,5 @@
+/* -- OVERAL STYLES -- */
+
 html,
 body
 {
@@ -10,28 +12,37 @@ body
     margin-bottom: 0;
 }
 
+.centered
+{
+    text-align:center;
+}
+
+#landing-header
+{
+    font-size: 20vh;
+    padding-bottom: 5vh;
+}
+
+
+/* -- STYLES SHARED ACROSS SECTIONS -- */
 section
 {
     padding-top: 100px;
     height: 100vh;
 }
 
+/* -- INDIVUDUAL SECTION STYLES -- */
 #profile
 {
-    background-color: lightcoral;
+    background-color: darkslategrey;
 }
 
 #play
 {
-    background-color: lightskyblue;
-}
-
-#practice
-{
-    background-color: lightcoral;
+    background-color: transparent;
 }
 
 #professional
 {
-    background-color: lightskyblue;
+    background-color: darkslategray;
 }

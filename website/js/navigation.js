@@ -18,8 +18,12 @@ jQuery(document).ready(function($) {
     })
 
     // Smooth scroll to section on navbar click
-    $("#profilenavbutton").click(function() {
+    $("#topnavbutton").click(function() {
         $('body').ScrollTo();
+    });
+
+    $("#profilenavbutton").click(function() {
+        $('#profile').ScrollTo();
     });
 
     $("#playnavbutton").click(function() {
