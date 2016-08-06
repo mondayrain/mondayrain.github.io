@@ -1,17 +1,9 @@
-/* -- OVERAL STYLES -- */
-
 html,
 body
 {
     height: 100%;
     margin: 0;
 }
-
-.navbar
-{
-    margin-bottom: 0;
-}
-
 
 .centered
 {
@@ -54,12 +46,6 @@ body
     padding-top: 5vh;
 }
 
-#resume-details
-{
-    font-size: 17px;
-}
-
-
 a
 {
     color: inherit;
@@ -68,33 +54,3 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:focus { text-decoration: none; }
 a:hover, a:active { opacity: 0.75 }
-
-/* -- STYLES SHARED ACROSS SECTIONS -- */
-section
-{
-    height: 100vh;
-}
-
-.secondary-section
-{
-    padding-top: 100px;
-}
-
-
-/* -- INDIVIDUAL SECTION STYLES -- */
-#profile
-{
-    background-color: darkslategrey;
-}
-
-#play
-{
-    background-color: transparent;
-}
-
-#professional
-{
-    background-color: darkslategray;
-}
-
-/* -- SPECIFIC ELEMENT STYLES -- */
