@@ -1,10 +1,7 @@
-/* ALL JS FUNCTIONALITY FOR MAIN SITE */
-
 $( function() {
     $( '#type-text' ).teletype( {
-        text: [ 'software developer', 'pythonista', 'Linux enthusiast',
-                'OSS contributor', 'hackathon junkie', 'proud Vancouverite'],
+        text: [ 'software developer', 'pythonista', 'Linux enthusiast', 'production engineer' ],
         typeDelay: 0,
-        backDelay: 8
+        backDelay: 6
     } );
 } );
