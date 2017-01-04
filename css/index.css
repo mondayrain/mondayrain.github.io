@@ -47,9 +47,14 @@ body
     padding-top: 5vh;
 }
 
+h1
+{
+   color: steelblue;
+}
+
 a
 {
-    color: inherit;
+    color: steelblue;
 }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
