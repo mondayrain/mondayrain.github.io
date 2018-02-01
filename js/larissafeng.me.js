@@ -1,6 +1,6 @@
 $( function() {
     $( '#type-text' ).teletype( {
-        text: [ 'software developer', 'pythonista', 'Linux enthusiast', 'production engineer' ],
+        text: [ 'software developer', 'devops engineer', 'pythonista', 'Linux enthusiast'],
         typeDelay: 0,
         backDelay: 6
     } );
