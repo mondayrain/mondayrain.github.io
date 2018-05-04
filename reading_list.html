@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
   <head>
     <title>Reading List - Larissa Feng</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,38 +16,19 @@
     <link rel="stylesheet" href="css/list.css">
 
     <!-- Scripts -->
+    <script type="text/javascript" src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/globals.js"></script>
+    <script src="js/reading_list.js"></script>
   </head>
 
   <body>
-    <div class="container-fluid text-center">
+    <div class="container-fluid text-center" id="reading_lists_container">
       <h1 class="list-header ">Reading List</h1>
       <h2><small>"There are worse crimes than burning books. One is not reading them."</small></h2>
-        <div class="list">
-          <h2>2018</h2>
-          <h4><b>If on a Winter's Night a Traveler</b> by Italo Calvino <small>(current)</small></h2>
-          <h4><b>The Martian</b> by Andy Weir</h2>
-          <h4><b>Homegoing</b> by Yaa Gyasi</h2>
-          <h4><b>Mother Night</b> by Kurt Vonnegut</h2>
-          <h4><b>A Visit from the Goon Squad</b> by Jennifer Egan</h2>
-          <br>
-          <h2>2017 </h2>
-          <h4><b>Shantytown</b> by César Aira</h4>
-          <h4><b>The Girl with All the Gifts</b> by M.R. Carey</h4>
-          <h4><b>Armageddon in Retrospect</b> by Kurt Vonnegut</h4>
-          <h4><b>Doing Good Better</b> by William MacAskill</h4>
-          <h4><b>Release It! Design and Deploy Production-Ready Software</b> by Michael T. Nygard</h4>
-          <h4><b>Wenjack</b> by Joseph Boyden</h4>
-          <h4><b>Alcatraz From Inside</b> by Jim Quillen</h4>
-          <h4><b>Assignment Alcatraz</b> by Patrick Mahoney</h4>
-          <h4><b>What We Talk About When We Talk About Love</b> by Raymond Carver</h4>
-          <h4><b>Mastery</b> by George Leonard</h4>
-          <h4><b>The Sirens of Titan</b> by Kurt Vonnegut</h4>
-          <h4><b>Slaughterhouse-Five</b> by Kurt Vonnegut</h4>
-          <br>
-          <h2>2016 </h2>
-          <h4><b>The Snowden Files</b> by Luke Harding</h4>
-        </div>
+      <div class="list" id="current_favourites">
+      </div>
+      <div class="list" id="current_year">
       </div>
     </div>
     <br>
