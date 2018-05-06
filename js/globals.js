@@ -131,7 +131,7 @@ $( function() {
     };
 
     GLOBALS.appendSection = function(header, list, parent_element, firstIsCurrent, delimiter) {
-        var title = document.createElement("h2");
+        var title = document.createElement("h3");
         title.innerHTML = header;
         parent_element.appendChild(title);
 
