@@ -17,6 +17,7 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "Marcovaldo, Italo Calvino",
                     "A Superior Man, Paul Yee",
                     "If on a Winter's Night a Traveler, Italo Calvino",
                     "The Martian, Andy Weir",
