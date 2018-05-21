@@ -17,6 +17,7 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "The Crying of Lot 49, Thomas Pynchon",
                     "Marcovaldo, Italo Calvino",
                     "A Superior Man, Paul Yee",
                     "If on a Winter's Night a Traveler, Italo Calvino",
@@ -56,9 +57,7 @@ $( function() {
                     "title": "Misc / Shoutouts",
                     "list": [
                         "Fight Club, Chuck Palahniuk",
-                        "The Trial and Death of Socrates, Plato",
                         "Crime and Punishment, Fyodor Dostoyevsky",
-                        "Fahrenheit 451, Ray Bradbury",
                         "Blindness, José Saramago",
                     ],
                 },
