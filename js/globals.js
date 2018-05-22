@@ -144,14 +144,14 @@ $( function() {
         if(firstIsCurrent) {
             current = list[0];
             bolded = GLOBALS.getKey(current);
-            unbolded = " " + delimiter + " " + GLOBALS.getValue(current);
+            unbolded = ` ${delimiter} ${GLOBALS.getValue(current)}`;
             GLOBALS.appendElementToList(bolded, unbolded, parent_element, true);
             startingIndex = 1;
         }
 
         for(var i = startingIndex; i < list.length; i++) {
             bolded = GLOBALS.getKey(list[i]);
-            unbolded = " " + delimiter + " " + GLOBALS.getValue(list[i]);
+            unbolded = ` ${delimiter} ${GLOBALS.getValue(list[i])}`;
             GLOBALS.appendElementToList(bolded, unbolded, parent_element, false);
         }
     }
