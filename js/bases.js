@@ -1,17 +1,19 @@
+"use strict";
+
 $( function() {
-    var bases_list = document.getElementById("bases_list");
+    let bases_list = document.getElementById("bases_list");
 
     // Append current
-    var bolded = GLOBALS.getKey(GLOBALS.currentBase());
-    var unbolded = ", " + GLOBALS.getValue(GLOBALS.currentBase());
+    let bolded = GLOBALS.getKey(GLOBALS.currentBase());
+    let unbolded = ", " + GLOBALS.getValue(GLOBALS.currentBase());
     GLOBALS.appendElementToList(bolded, unbolded, bases_list, true);
 
     // Append rest of the bases
-    var bases = GLOBALS.bases()
-    for (var i = 1; i < bases.length; i++) {
-        var base = bases[i];
-        var bolded = GLOBALS.getKey(base);
-        var unbolded = ", " + GLOBALS.getValue(base);
+    let bases = GLOBALS.bases()
+    for (let i = 1; i < bases.length; i++) {
+        let base = bases[i];
+        bolded = GLOBALS.getKey(base);
+        unbolded = ", " + GLOBALS.getValue(base);
         GLOBALS.appendElementToList(bolded, unbolded, bases_list, false);
     }
 } );

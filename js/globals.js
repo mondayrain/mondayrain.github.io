@@ -1,3 +1,5 @@
+"use strict";
+
 var GLOBALS = {};
 
 $( function() {
@@ -113,16 +115,16 @@ $( function() {
 
     GLOBALS.appendElementToList = function(bolded, unbolded, parentElement, isCurrent) {
         console.log("hello");
-        header = document.createElement("h4");
-        bolded_element = document.createElement("b");
+        let header = document.createElement("h4");
+        let bolded_element = document.createElement("b");
         bolded_element.innerHTML = bolded;
-        unbolded_element = document.createTextNode(unbolded);
+        let unbolded_element = document.createTextNode(unbolded);
 
         header.appendChild(bolded_element);
         header.appendChild(unbolded_element);
 
         if(isCurrent) {
-            small = document.createElement("small");
+            let small = document.createElement("small");
             small.innerHTML = " (current)";
             header.appendChild(small);
         }
@@ -131,14 +133,14 @@ $( function() {
     };
 
     GLOBALS.appendSection = function(header, list, parent_element, firstIsCurrent, delimiter) {
-        var title = document.createElement("h3");
+        let title = document.createElement("h3");
         title.innerHTML = header;
         parent_element.appendChild(title);
 
-        var startingIndex = 0;
-        var current = "";
-        var bolded = "";
-        var unbolded = "";
+        let startingIndex = 0;
+        let current = "";
+        let bolded = "";
+        let unbolded = "";
         if(firstIsCurrent) {
             current = list[0];
             bolded = GLOBALS.getKey(current);
