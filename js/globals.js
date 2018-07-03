@@ -19,7 +19,10 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
-                    "The Crying of Lot 49, Thomas Pynchon",
+                    "The Buried Giant, Kazuo Ishiguro",
+                    "A Short History of Southeast Asia, Peter Church",
+                    "Call Me By Your Name, André Aciman",
+                    "The Underground Railway, Colson Whitehead",
                     "Marcovaldo, Italo Calvino",
                     "A Superior Man, Paul Yee",
                     "If on a Winter's Night a Traveler, Italo Calvino",
