@@ -19,6 +19,7 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "An Artist of the Floating World, Kazuo Ishiguro",
                     "The Buried Giant, Kazuo Ishiguro",
                     "A Short History of Southeast Asia, Peter Church",
                     "Call Me By Your Name, André Aciman",
@@ -69,8 +70,8 @@ $( function() {
             ],
         },
         "bases": [
-            "Vancouver, Canada",
             "Toronto, Canada",
+            "Vancouver, Canada",
             "San Francisco Bay Area, USA",
             "Ottawa, Canada",
             "Klagenfurt, Austria",
