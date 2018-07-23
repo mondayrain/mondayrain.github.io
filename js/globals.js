@@ -19,6 +19,7 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "All the Light We Cannot See, Anthony Doerr",
                     "An Artist of the Floating World, Kazuo Ishiguro",
                     "The Buried Giant, Kazuo Ishiguro",
                     "A Short History of Southeast Asia, Peter Church",
