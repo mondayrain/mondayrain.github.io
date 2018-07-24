@@ -1,10 +1,6 @@
 "use strict";
 
 $( function() {
-    let current_favourites = document.getElementById("current_favourites");
-    let favourites_data = GLOBALS.readingListFavourites();
-    GLOBALS.appendSection(favourites_data["title"], favourites_data["list"], current_favourites, false, "by");
-
     let current_year = document.getElementById("current_year");
     let current_year_data = GLOBALS.readingListCurrentYear();
     GLOBALS.appendSection(current_year_data["title"], current_year_data["list"], current_year, true, "by");

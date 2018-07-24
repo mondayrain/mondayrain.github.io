@@ -8,14 +8,6 @@ $( function() {
     GLOBALS.DATA = {
         "current_year": "2018",
         "reading_list": {
-            "current_favourites":   {
-                "title": "Recommended",
-                "list": [
-                    "Autobiography of Red, Anne Carson",
-                    "Homegoing, Yaa Gyasi",
-                    "What We Talk About When We Talk About Love, Raymond Carver",
-                ],
-            },
             "current_year": {
                 "title": "2018",
                 "list": [
@@ -63,9 +55,9 @@ $( function() {
                 {
                     "title": "Misc / Shoutouts",
                     "list": [
-                        "Fight Club, Chuck Palahniuk",
+                        "Autobiography of Red, Anne Carson",
                         "Crime and Punishment, Fyodor Dostoyevsky",
-                        "Blindness, José Saramago",
+                        "Fight Club, Chuck Palahniuk",
                     ],
                 },
             ],
