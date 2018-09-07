@@ -11,6 +11,7 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "Nickel and Dimed: On (Not) Getting By In America, Barbara Ehrenreich",
                     "A Thousand Years of Good Prayers, Yiyun Li",
                     "Disgrace, J.M. Coetzee",
                     "All the Light We Cannot See, Anthony Doerr",
