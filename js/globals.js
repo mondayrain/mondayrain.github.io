@@ -11,6 +11,8 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "This Time is Different: Eight Centuries of Financial Folly, Carmen M. Reinhart & Kenneth S. Rogoff",
+                    "The Value of Nothing, Raj Patel",
                     "The End of Growth, Jeff Rubin",
                     "Nickel and Dimed: On (Not) Getting By In America, Barbara Ehrenreich",
                     "A Thousand Years of Good Prayers, Yiyun Li",
