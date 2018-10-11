@@ -11,6 +11,7 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "Basic Writings of Existentialism, Gordon Marino",
                     "Zeitoun, Dave Eggers",
                     "The Value of Nothing, Raj Patel",
                     "The End of Growth, Jeff Rubin",
