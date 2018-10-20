@@ -11,7 +11,8 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
-                    "Basic Writings of Existentialism, Gordon Marino",
+                    "Crucial Conversations, Kerry Patterson et. al",
+                    "The Reader, Bernhard Schlink",
                     "Zeitoun, Dave Eggers",
                     "The Value of Nothing, Raj Patel",
                     "The End of Growth, Jeff Rubin",
