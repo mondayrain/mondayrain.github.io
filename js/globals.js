@@ -12,6 +12,8 @@ $( function() {
                 "title": "2018",
                 "list": [
                     "Crucial Conversations, Kerry Patterson et. al",
+                    "A Very Old Man with Enormous Wings, Gabriel Garcia Márquez",
+                    "When Breath Becomes Air, Paul Kalanithi",
                     "The Reader, Bernhard Schlink",
                     "Zeitoun, Dave Eggers",
                     "The Value of Nothing, Raj Patel",
