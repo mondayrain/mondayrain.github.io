@@ -11,6 +11,8 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
+                    "Conversations, César Aira",
+                    "Powerful, Patty McCord",
                     "Crucial Conversations, Kerry Patterson et. al",
                     "A Very Old Man with Enormous Wings, Gabriel Garcia Márquez",
                     "When Breath Becomes Air, Paul Kalanithi",
