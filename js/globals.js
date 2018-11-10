@@ -14,6 +14,7 @@ $( function() {
                     "Conversations, César Aira",
                     "Powerful, Patty McCord",
                     "Crucial Conversations, Kerry Patterson et. al",
+                    "Hills Like White Elephants, Ernest Hemingway",
                     "A Very Old Man with Enormous Wings, Gabriel Garcia Márquez",
                     "When Breath Becomes Air, Paul Kalanithi",
                     "The Reader, Bernhard Schlink",
