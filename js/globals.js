@@ -11,7 +11,8 @@ $( function() {
             "current_year": {
                 "title": "2018",
                 "list": [
-                    "Conversations, César Aira",
+                    "The Little Buddhist, César Aira",
+                    "Ema the Captive, César Aira",
                     "Powerful, Patty McCord",
                     "Crucial Conversations, Kerry Patterson et. al",
                     "Hills Like White Elephants, Ernest Hemingway",
