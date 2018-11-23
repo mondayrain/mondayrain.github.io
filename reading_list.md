@@ -24,7 +24,7 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [A Very Old Man with Enormous Wings](http://www.jonescollegeprep.org/ourpages/auto/2014/1/29/42934518/A_Very_Old_Man_with_Enormous_Wings_pdf.pdf) by Gabriel García Márquez
 - [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
 - [The Reader](https://www.goodreads.com/book/show/101299.The_Reader) by Bernhard Schlink
-- [Zeitoun](https://www.goodreads.com/book/show/6512154-zeitoun) by Dave eggers
+- [Zeitoun](https://www.goodreads.com/book/show/6512154-zeitoun) by Dave Eggers
 - [The Value of Nothing: How to Reshape Market Society and Redefine Democracy](https://www.goodreads.com/book/show/6902380-the-value-of-nothing) by Raj Patel
 - [The End of Growth](https://www.goodreads.com/book/show/13151169-the-end-of-growth) by Jeff Rubin
 - [Nickel and Dimed: On (Not) Getting By In America](https://www.goodreads.com/book/show/1869.Nickel_and_Dimed) by Barbara Ehrenreich
