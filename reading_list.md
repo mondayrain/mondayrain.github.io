@@ -10,7 +10,7 @@ title: Reading List
 I read a lot. I read as much as I can. I love being a technologist, but technology has its limits when it comes to understanding the human condition.
 
 ## Current
-- [9-11](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
+- [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [The Sympathizer](https://www.goodreads.com/book/show/23168277-the-sympathizer) by Viet Thanh Nguyen
