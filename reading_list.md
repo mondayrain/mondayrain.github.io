@@ -7,7 +7,7 @@ title: Reading List
 <br/>One of them is not reading them."
 <br/>- Ray Bradbury</i>
 
-I read a lot. I read as much as I can. I love being a technologist, but technology has its limits when it comes to understanding the human condition.
+I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
 - [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
