@@ -11,6 +11,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
+- [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep) by Philip K. Dick
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 
