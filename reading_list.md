@@ -10,13 +10,12 @@ title: Reading List
 I read a lot. I read as much as I can. I love being a technologist, but technology has its limits when it comes to understanding the human condition.
 
 ## Current
-- [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
+- [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
-- [The Sympathizer](https://www.goodreads.com/book/show/23168277-the-sympathizer) by Viet Thanh Nguyen
-
 
 ## 2018
+- [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
 - [The Little Buddhist Monk / The Proof](https://www.goodreads.com/book/show/32491842-the-little-buddhist-monk-the-proof) by  César Aira
 - [Ema, the Captive](https://www.goodreads.com/book/show/29082562-ema-the-captive) by César Aira
 - [Powerful: Building a Culture of Freedom and Responsibility](https://www.goodreads.com/book/show/36417234-powerfu) by Patty McCord
