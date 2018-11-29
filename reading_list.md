@@ -16,6 +16,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 
 ## 2018
+- [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 - [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
 - [The Little Buddhist Monk / The Proof](https://www.goodreads.com/book/show/32491842-the-little-buddhist-monk-the-proof) by  César Aira
 - [Ema, the Captive](https://www.goodreads.com/book/show/29082562-ema-the-captive) by César Aira
