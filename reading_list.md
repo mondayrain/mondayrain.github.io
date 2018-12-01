@@ -11,11 +11,12 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
-- [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep) by Philip K. Dick
+- [Make Time: How To Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time) by Jake Knapp & John Zeratsky
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 
 ## 2018
+- [Mother Night](https://www.goodreads.com/book/show/9592.Mother_Night) by Kurt Vonnegut
 - [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 - [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
 - [The Little Buddhist Monk / The Proof](https://www.goodreads.com/book/show/32491842-the-little-buddhist-monk-the-proof) by  César Aira
