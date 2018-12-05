@@ -10,12 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
+- [The Responsibility of Intellectuals](https://chomsky.info/19670223/) by Noam Chomsky
 - [Make Time: How To Focus on What Matters Every Day](https://www.goodreads.com/book/show/37880811-make-time) by Jake Knapp & John Zeratsky
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 
 ## 2018
+- [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
 - [Mother Night](https://www.goodreads.com/book/show/9592.Mother_Night) by Kurt Vonnegut
 - [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 - [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
