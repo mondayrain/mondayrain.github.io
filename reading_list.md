@@ -14,6 +14,8 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Is the Internet Changing the Way You Think?: The Net's Impact on Our Minds and Future](https://www.goodreads.com/book/show/9677443-is-the-internet-changing-the-way-you-think) edited by John Brockman
 
 ## 2018
+- [A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/book/show/35108805-a-higher-loyalty) by James Comey
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love ](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you) by Cal Newport
 - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
 Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [The Responsibility of Intellectuals](https://chomsky.info/19670223/) by Noam Chomsky
