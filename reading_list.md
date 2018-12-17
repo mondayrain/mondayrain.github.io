@@ -10,7 +10,7 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Mrs Dalloway](https://www.goodreads.com/book/show/14942.Mrs_Dalloway) by Virginia Woolf
+- [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
 - [Is the Internet Changing the Way You Think?: The Net's Impact on Our Minds and Future](https://www.goodreads.com/book/show/9677443-is-the-internet-changing-the-way-you-think) edited by John Brockman
 
 ## 2018
