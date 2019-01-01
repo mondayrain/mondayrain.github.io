@@ -10,8 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
+- [Flatland](https://www.goodreads.com/book/show/433567.Flatland) by Edwin A. Abbott
 - [Is the Internet Changing the Way You Think?: The Net's Impact on Our Minds and Future](https://www.goodreads.com/book/show/9677443-is-the-internet-changing-the-way-you-think) edited by John Brockman
+
+## 2019
+- [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
 
 ## 2018
 - [A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/book/show/35108805-a-higher-loyalty) by James Comey
