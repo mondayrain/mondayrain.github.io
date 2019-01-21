@@ -14,7 +14,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Anciliary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
 
 ## 2019
-= [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
+- [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
 - [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk
 - [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
 
