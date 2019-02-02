@@ -10,10 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Transit](https://www.goodreads.com/book/show/29939363-transit) by Rachel Cusk
 - [Anciliary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
+- [Speak Freely: Why Universities Must Defend Free Speech](https://www.goodreads.com/book/show/38910558-speak-freely) by Keith E. Whittington
 
 ## 2019
+- [Transit](https://www.goodreads.com/book/show/29939363-transit) by Rachel Cusk
 - [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
 - [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk
 - [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
