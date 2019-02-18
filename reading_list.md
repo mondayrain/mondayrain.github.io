@@ -11,7 +11,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword) by Ann Leckie
-- [Giving Offense](https://www.goodreads.com/book/show/75401.Giving_Offense) by J.M. Coetzee
+- [Giving Offense: Essays on Censorship](https://www.goodreads.com/book/show/75401.Giving_Offense) by J.M. Coetzee
 
 ## 2019
 - [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
