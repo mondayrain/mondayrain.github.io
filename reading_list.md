@@ -14,7 +14,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Giving Offense](https://www.goodreads.com/book/show/75401.Giving_Offense) by J.M. Coetzee
 
 ## 2019
-- [Anciliary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
+- [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
 - [Transit](https://www.goodreads.com/book/show/29939363-transit) by Rachel Cusk
 - [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
 - [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk
