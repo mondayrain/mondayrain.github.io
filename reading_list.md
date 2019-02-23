@@ -10,10 +10,12 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword) by Ann Leckie
 - [Giving Offense: Essays on Censorship](https://www.goodreads.com/book/show/75401.Giving_Offense) by J.M. Coetzee
+- [Tell the Machine Goodnight](https://www.goodreads.com/book/show/36435424-tell-the-machine-goodnight) by Katie Williams
 
 ## 2019
+- [How to Cure a Fanatic](https://www.goodreads.com/book/show/65260.How_to_Cure_a_Fanatic) by Amos Oz
+- [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword) by Ann Leckie
 - [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
 - [Transit](https://www.goodreads.com/book/show/29939363-transit) by Rachel Cusk
 - [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
