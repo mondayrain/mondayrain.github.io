@@ -10,8 +10,10 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
+- [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz
+- [Sustainability: A History](https://www.goodreads.com/book/show/21492074-sustainability) by Jeremy L. Caradonna
 - [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
-- [Giving Offense: Essays on Censorship](https://www.goodreads.com/book/show/75401.Giving_Offense) by J.M. Coetzee
+
 
 ## 2019
 - [Tell the Machine Goodnight](https://www.goodreads.com/book/show/36435424-tell-the-machine-goodnight) by Katie Williams
