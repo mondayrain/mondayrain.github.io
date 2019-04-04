@@ -11,7 +11,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
-- [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 
 
 ## 2019
