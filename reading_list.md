@@ -10,12 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz
-- [Sustainability: A History](https://www.goodreads.com/book/show/21492074-sustainability) by Jeremy L. Caradonna
-- [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
+- [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
+- [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 
 
 ## 2019
+- [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
+- [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz
 - [Tell the Machine Goodnight](https://www.goodreads.com/book/show/36435424-tell-the-machine-goodnight) by Katie Williams
 - [How to Cure a Fanatic](https://www.goodreads.com/book/show/65260.How_to_Cure_a_Fanatic) by Amos Oz
 - [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword) by Ann Leckie
