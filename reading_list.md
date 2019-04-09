@@ -11,10 +11,10 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
-- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
-
+- [Thinking With Type](https://www.goodreads.com/book/show/69736.Thinking_with_Type) by Ellen Lupton
 
 ## 2019
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 - [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
 - [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz
 - [Tell the Machine Goodnight](https://www.goodreads.com/book/show/36435424-tell-the-machine-goodnight) by Katie Williams
