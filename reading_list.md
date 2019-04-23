@@ -10,10 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
-- [Thinking With Type](https://www.goodreads.com/book/show/69736.Thinking_with_Type) by Ellen Lupton
+- [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
+- [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 
 ## 2019
+- [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 - [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
 - [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz
