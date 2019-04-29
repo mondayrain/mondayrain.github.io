@@ -10,10 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
+- [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
 - [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 
 ## 2019
+- [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
 - [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 - [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
