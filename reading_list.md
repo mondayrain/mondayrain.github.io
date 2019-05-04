@@ -11,9 +11,10 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
-- [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
+- [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
 
 ## 2019
+- [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 - [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
 - [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
