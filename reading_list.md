@@ -11,9 +11,11 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
-- [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
+- [Wired For Love: : How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship](https://www.goodreads.com/book/show/13225387-wired-for-love) by Stan Tatkin
+
 
 ## 2019
+- [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
 - [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 - [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
 - [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector
