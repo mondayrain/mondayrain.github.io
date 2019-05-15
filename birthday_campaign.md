@@ -47,7 +47,7 @@ _**There is no perfect charity/non-profit**_, and there are almost always reason
 
 <br>**The Malaria Consortium**
 <br>Preventing Malaria
-<br>[https://www.malariaconsortium.org](https://www.malariaconsortium.org/)
+<br>[https://www.malariaconsortium.org](https://www.malariaconsortium.org/) (_**[Donate here!](https://www.givewell.org/charities/malaria-consortium)**_)
 
 Preventing malaria is important and tractable, but *unfortunately neglected for how cost-effective the solutions can be*.
 
@@ -57,9 +57,9 @@ _**Why donate?**_ There aren't many initiatives as cost-effective as preventing 
 
 _**Why not donate?**_ In short, surveys can be hard & drug resistance is a problem. [See here](https://thingofthings.wordpress.com/2019/01/04/givewell-top-charities-explained-malaria-consortium/) for more.
 
-<br>**Freedom Fund**
+<br>**Freedom Fund** 
 <br>Modern Slavery / Human Trafficking
-<br>[https://freedomfund.org](https://freedomfund.org/)
+<br>[https://freedomfund.org](https://freedomfund.org/) (_**[Donate here!](https://freedomfund.org/take-action/)**_)
 
 _**Modern slavery - also known as "human trafficking" - is alive and well**_. 21 to 45 million people are trapped in some form of slavery today, whether it be sex trafficking, bonded labour, child labour, or domestic servitude. The Freedom Fund tries to identify & partner with frontline organisations to directly combat slavery in defined regions where it is highly concentrated. They do this through setting up “hotspot” projects – clusters of community-based organisations – as well as engaging the government, working in the private sector, and running media initiatives. 
 
@@ -71,7 +71,7 @@ _**Why not donate?**_ Since poverty & its associated effects seem to fuel traffi
 
 <br>**Cool Earth**
 <br>Climate Change (through reforestation)
-<br>[https://www.coolearth.org](https://www.coolearth.org/)
+<br>[https://www.coolearth.org](https://www.coolearth.org/) (_**[Donate here!](https://www.coolearth.org/get-involved/donate-cool-earth/)**_)
 
 Half of the world’s rainforest has been lost over the past forty years. This is a shame, because the rainforest sequesters a massive amount of the world's carbon. In fact, _**deforestation has been responsible for more CO2 in the atmosphere than all of the world’s transport combined**_.
 
@@ -85,7 +85,7 @@ _**Why not donate?**_ You don't think that reforestation is going to help climat
 
 <br>**Lake Ontario Waterkeeper**
 <br>(Local) Environment
-<br>[http://www.waterkeeper.ca](http://www.waterkeeper.ca/)
+<br>[http://www.waterkeeper.ca](http://www.waterkeeper.ca/) (_**[Donate here!](http://www.waterkeeper.ca/donate)**_)
 
 Unfortunately, our local bodies of water need our help staying clean and dealing with all the pollution that we create. For example, in 2013 there were 3,024 beach advisories on Lake Ontario. These water quality advisories cost Ontario more than $250-million in lost economic value and contributed to an estimated 78,000 waterborne illnesses.
 
@@ -97,7 +97,7 @@ _**Why not donate?**_ It's quite a local organization, and therefore may have li
 
 <br>**Electronic Frontier Foundation**
 <br>(Digital) Civil Liberties
-<br>[https://www.eff.org](https://www.eff.org/)
+<br>[https://www.eff.org](https://www.eff.org/) (_**[Donate here!](https://supporters.eff.org/donate/join-4)**_)
 
 We are all digital citizens, and therefore we are all impacted when our digital civil liberties are infringed upon. Although it's not often discussed, _**there are many ways in which our digital lives (which are increasingly just our lives) have been suffering from loss of free speech and privacy**_.
 
@@ -106,6 +106,7 @@ The Electronic Frontier Foundation (EFF) champions user privacy, free expression
 _**Why donate?**_ If you think you [have nothing to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), [you may want to reconsider](https://vimeo.com/nothingtohide). Also, the EFF has been in the trenches for many important events in digital civil liberties, such as the US SOPA web blackout. They also have a great reputation and have built lovely tools that developers know & love, such as [Certbot](https://certbot.eff.org/).
 
 _**Why not donate?**_ You think privacy is dead, or don't think much about digital intellectual property rights.
+
 
 <br>
 ## Why (should I do this)?
