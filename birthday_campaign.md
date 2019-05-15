@@ -10,7 +10,7 @@ It's that time of the year again!<br>
 
 **If you donate to a charity of my choosing before May 31** (and send me the receipt at [hello@larissafeng.me](mailto:hello@larissafeng.me)), **I'll match 50% of your donation.**
 
-I'll keep a live status update (with total donations, # donors, etc) [here](https://larissafeng.me/birthday_campaign_status).
+I'll keep a [live status update](https://larissafeng.me/birthday_campaign_status) (with total donations, # donors, etc) [here](https://larissafeng.me/birthday_campaign_status).
 
 <br>
 ## What (is this campaign)?
