@@ -10,11 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
-- [Wired For Love: : How Understanding Your Partner's Brain and Attachment Style Can Help You Defuse Conflict and Build a Secure Relationship](https://www.goodreads.com/book/show/13225387-wired-for-love) by Stan Tatkin
-
+- [Forgiveness](https://www.goodreads.com/book/show/20726950-forgiveness) by Mark Sakamoto
+- [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure](https://www.goodreads.com/book/show/36556202-the-coddling-of-the-american-mind) by  Greg Lukianoff & Jonathan Haidt
 
 ## 2019
+- [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
 - [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
 - [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 - [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
