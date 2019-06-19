@@ -10,10 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Forgiveness](https://www.goodreads.com/book/show/20726950-forgiveness) by Mark Sakamoto
-- [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting Up a Generation for Failure](https://www.goodreads.com/book/show/36556202-the-coddling-of-the-american-mind) by  Greg Lukianoff & Jonathan Haidt
+- [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert C. Martin
 
 ## 2019
+- [Forgiveness](https://www.goodreads.com/book/show/20726950-forgiveness) by Mark Sakamoto
 - [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
 - [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
 - [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
