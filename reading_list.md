@@ -9,11 +9,16 @@ title: Reading List
 
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
+
 ## Current
-- [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
+- [Me Funny](http://www.douglas-mcintyre.com/book/me-funny) by Drew Hayden Taylor
 - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert C. Martin
 
+
 ## 2019
+- [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
+- [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
+- [The Gods of Tango](https://www.goodreads.com/book/show/23344356-the-gods-of-tango) by Carolina De Robertis
 - [Forgiveness](https://www.goodreads.com/book/show/20726950-forgiveness) by Mark Sakamoto
 - [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
 - [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
@@ -31,6 +36,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
 - [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk
 - [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
+
 
 ## 2018
 - [A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/book/show/35108805-a-higher-loyalty) by James Comey
@@ -70,7 +76,6 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 
 
 ## 2017
-
 - [Shantytown](https://www.goodreads.com/book/show/17574842-shantytown) by César Aira
 - [The
  Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) by M.R. Carey
