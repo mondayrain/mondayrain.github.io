@@ -13,6 +13,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 ## Current
 - [Me Funny](http://www.douglas-mcintyre.com/book/me-funny) edited by Drew Hayden Taylor
 - [Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel 
+- [A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
 
 
 ## 2019
