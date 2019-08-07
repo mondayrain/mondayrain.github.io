@@ -11,11 +11,12 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 
 ## Current
-- [Me Funny](http://www.douglas-mcintyre.com/book/me-funny) by Drew Hayden Taylor
-- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder) by Robert C. Martin
+- [Me Funny](http://www.douglas-mcintyre.com/book/me-funny) edited by Drew Hayden Taylor
+- [Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel 
 
 
 ## 2019
+- [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
 - [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
 - [The Gods of Tango](https://www.goodreads.com/book/show/23344356-the-gods-of-tango) by Carolina De Robertis
