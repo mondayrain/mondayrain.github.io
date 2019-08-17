@@ -16,19 +16,19 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## 2019
 - [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
-- <s>[Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel</s> - <small>_(unfinished due to boredom)_</small>
+- <s>[Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel</s> - _(unfinished due to boredom)_
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
 - [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
-- [The Gods of Tango](https://www.goodreads.com/book/show/23344356-the-gods-of-tango) by Carolina De Robertis
+- [The Gods of Tango](https://www.goodreads.com/book/show/23344356-the-gods-of-tango) by Carolina De Robertis *
 - [Forgiveness](https://www.goodreads.com/book/show/20726950-forgiveness) by Mark Sakamoto
 - [The City & the City](https://www.goodreads.com/book/show/4703581-the-city-the-city) by China Miéville
 - [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
 - [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 - [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
-- <s>[Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector</s> - <small>_(unfinished due to density)_</small>
+- <s>[Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector</s> - _(unfinished due to density)_
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 - [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
-- [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz
+- [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz *
 - [Tell the Machine Goodnight](https://www.goodreads.com/book/show/36435424-tell-the-machine-goodnight) by Katie Williams
 - [How to Cure a Fanatic](https://www.goodreads.com/book/show/65260.How_to_Cure_a_Fanatic) by Amos Oz
 - [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword) by Ann Leckie
