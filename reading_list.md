@@ -10,12 +10,15 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
+- [No Place to Go: How Public Toilets Fail our Private Needs](https://chbooks.com/Books/N/No-Place-To-Go) by Lezlie Lowe
+- [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks) by Rebecca Skloot
 - [Statistics in Plain English: 4th Edition](https://www.routledge.com/Statistics-in-Plain-English-4th-Edition/Urdan/p/book/9781138838345) by Timothy C. Urdan
 
 ## 2019
+- [The Trouble with Brunch: Work, Class and the Pursuit of Leisure](https://www.goodreads.com/book/show/17675213-the-trouble-with-brunch) by Shawn Micallef
+- [A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
 - [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
-- <s>[Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel</s> <small>_(unfinished due to boredom)_</small>
+- Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel<small>_(unfinished due to boredom)_</small>
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
 - [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
 - [The Gods of Tango](https://www.goodreads.com/book/show/23344356-the-gods-of-tango) by Carolina De Robertis *
@@ -24,7 +27,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Growth Hacker Marketing](https://www.goodreads.com/book/show/18454317-growth-hacker-marketing) by Ryan Holiday
 - [Rework](https://www.goodreads.com/book/show/6732019-rework) by Jason Fried & David Heinemeier Hansson
 - [Everything Is Illuminated](https://www.goodreads.com/book/show/256566.Everything_Is_Illuminated) by Jonathan Safran Foer
-- <s>[Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector</s> <small>_(unfinished due to density)_</small>
+- [Agua Viva](https://www.goodreads.com/book/show/19185192-gua-viva) by Clarice Lispector <small>_(unfinished due to density)_</small>
 - [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project) by Gene Kim, Kevin Behr, and George Spafford
 - [Kinder than Solitude](https://www.goodreads.com/book/show/18077906-kinder-than-solitude) by Yiyun Li
 - [Between Friends](https://www.goodreads.com/book/show/17302874-between-friends) by Amos Oz *
