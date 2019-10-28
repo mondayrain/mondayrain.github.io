@@ -10,18 +10,19 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [City of Glass](https://www.goodreads.com/book/show/432.City_of_Glass) by Paul Auster
-- [Detroit City Is The Place To Be: The Afterlife of an American Metropolis](https://en.wikipedia.org/wiki/Detroit_City_Is_the_Place_to_Be) by Mark Binelli
 - [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly) by Philip K. Dick
+- [The Sense of an Ending](https://en.wikipedia.org/wiki/The_Sense_of_an_Ending) by Julian Barnes
+- [How to Kill a City: Gentrification, Inequality and the Fight for the Neighborhood](https://moskowitz.xyz/book) - by P.E. Moskowitz
 
 ## 2019
+- [City of Glass](https://www.goodreads.com/book/show/432.City_of_Glass) by Paul Auster
+- [Detroit City Is The Place To Be: The Afterlife of an American Metropolis](https://en.wikipedia.org/wiki/Detroit_City_Is_the_Place_to_Be) by Mark Binelli
 - [Think Like a Cat: How to Raise a Well-Adjusted Cat--Not a Sour Puss](https://www.catbehaviorassociates.com/think-like-a-cat/) by Pam Johnson-Bennett
 - [Statistics in Plain English: 4th Edition](https://www.routledge.com/Statistics-in-Plain-English-4th-Edition/Urdan/p/book/9781138838345) by Timothy C. Urdan <small>_(unfinished - decided I was happy enough with after Chapt 8)_</small>
 - [No Place to Go: How Public Toilets Fail our Private Needs](https://chbooks.com/Books/N/No-Place-To-Go) by Lezlie Lowe
 - [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks) by Rebecca Skloot
 - [The Trouble with Brunch: Work, Class and the Pursuit of Leisure](https://www.goodreads.com/book/show/17675213-the-trouble-with-brunch) by Shawn Micallef
-- [A Mind For Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
-- [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
+how - [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
 - [Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel <small>_(unfinished due to boredom)_</small>
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
 - [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
