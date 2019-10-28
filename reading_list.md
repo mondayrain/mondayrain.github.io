@@ -19,7 +19,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Detroit City Is The Place To Be: The Afterlife of an American Metropolis](https://en.wikipedia.org/wiki/Detroit_City_Is_the_Place_to_Be) by Mark Binelli
 - [Think Like a Cat: How to Raise a Well-Adjusted Cat--Not a Sour Puss](https://www.catbehaviorassociates.com/think-like-a-cat/) by Pam Johnson-Bennett
 - [Statistics in Plain English: 4th Edition](https://www.routledge.com/Statistics-in-Plain-English-4th-Edition/Urdan/p/book/9781138838345) by Timothy C. Urdan <small>_(unfinished - decided I was happy enough with after Chapt 8)_</small>
-- [No Place to Go: How Public Toilets Fail our Private Needs](https://chbooks.com/Books/N/No-Place-To-Go) by Lezlie Lowe
+- [No Place to Go: How Public Toilets Fail our Private Needs](https://chbooks.com/Books/N/No-Place-To-Go) by Lezlie Lowe *
 - [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks) by Rebecca Skloot
 - [The Trouble with Brunch: Work, Class and the Pursuit of Leisure](https://www.goodreads.com/book/show/17675213-the-trouble-with-brunch) by Shawn Micallef
 - [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
@@ -42,7 +42,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) by Ann Leckie
 - [Transit](https://www.goodreads.com/book/show/29939363-transit) by Rachel Cusk
 - [Despair](https://www.goodreads.com/book/show/418209.Despair) by Vladimir Nabokov
-- [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk
+- [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk *
 - [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
 
 
@@ -69,16 +69,16 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [Nickel and Dimed: On (Not) Getting By In America](https://www.goodreads.com/book/show/1869.Nickel_and_Dimed) by Barbara Ehrenreich
 - [Disgrace](https://www.goodreads.com/book/show/6192.Disgrace) by J.M. Coetzee
 - [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr
-- [An Artist of the Floating World](https://www.goodreads.com/book/show/28922.An_Artist_of_the_Floating_World) by Kazuo Ishiguro
+- [An Artist of the Floating World](https://www.goodreads.com/book/show/28922.An_Artist_of_the_Floating_World) by Kazuo Ishiguro *
 - [The Buried Giant](https://www.goodreads.com/book/show/22522805-the-buried-giant) by Kazuo Ishiguro
 - [A Short History of Southeast Asia](https://www.goodreads.com/book/show/1653813.A_Short_History_of_South_East_Asia) by Peter Church
-- [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name) by  André Aciman
+- [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name) by  André Aciman *
 - [The Underground Railroad](https://www.goodreads.com/book/show/30555488-the-underground-railroad) by Colson Whitehead
 - [Marcovaldo](https://www.goodreads.com/book/show/18929.Marcovaldo) by Italo Calvino
 - [A Superior Man](https://www.goodreads.com/book/show/25330028-a-superior-man) by Paul Yee
 - [If on a Winter's Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) by Italo Calvino
 - [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) by Andy Weir
-- [Homegoing](https://www.goodreads.com/book/show/27071490-homegoing) by Yaa Gyasi
+- [Homegoing](https://www.goodreads.com/book/show/27071490-homegoing) by Yaa Gyasi *
 - [Mother Night](https://www.goodreads.com/book/show/9592.Mother_Night?) by Kurt Vonnegut
 - [A Visit from the Goon Squad](https://www.goodreads.com/book/show/7331435-a-visit-from-the-goon-squad) by Jennifer Egan
 
@@ -93,7 +93,7 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [Wenjack](https://www.goodreads.com/book/show/30079906-wenjack) by Joseph Boyden
 - [Alcatraz From Inside: The Hard Years, 1942-1952](https://www.goodreads.com/book/show/516809.Alcatraz_from_Inside) by Jim Quillen
 - [Assignment Alcatraz](https://www.goodreads.com/book/show/23524221-assignment-alcatraz) by Patrick Mahoney
-- [What We Talk About When We Talk About Love](https://www.goodreads.com/book/show/11438.What_We_Talk_About_When_We_Talk_About_Love) by Raymond Carver
+- [What We Talk About When We Talk About Love](https://www.goodreads.com/book/show/11438.What_We_Talk_About_When_We_Talk_About_Love) by Raymond Carver *
 - [Mastery: The Keys to Success and Long-Term Fulfillment](https://www.goodreads.com/book/show/81940.Mastery) by George Leonard
 - [The Sirens of Titan](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan) by Kurt Vonnegut
 - [Slaughterhouse-Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five) by Kurt Vonnegut
