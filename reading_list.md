@@ -22,7 +22,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [No Place to Go: How Public Toilets Fail our Private Needs](https://chbooks.com/Books/N/No-Place-To-Go) by Lezlie Lowe
 - [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks) by Rebecca Skloot
 - [The Trouble with Brunch: Work, Class and the Pursuit of Leisure](https://www.goodreads.com/book/show/17675213-the-trouble-with-brunch) by Shawn Micallef
-how - [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
+- [The Lathe of Heaven](https://en.wikipedia.org/wiki/The_Lathe_of_Heaven) by Ursula K. Le Guin
 - [Medical Monopoly: Intellectual Property Rights and the Origins of the Modern Pharmaceutical Industry ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4613392/) by Joseph M. Gabriel <small>_(unfinished due to boredom)_</small>
 - [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism) by Cal Newport
 - [One Day in the Life of Ivan Denisovich](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn
