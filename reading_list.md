@@ -10,12 +10,14 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants ](https://www.goodreads.com/book/show/17465709-braiding-sweetgrass) by Robin Wall Kimmerer
-- [The Lady Who Liked Clean Restrooms: The Chronicle Of One Of The Strangest Stories Ever To Be Rumoured About Around New York ](https://www.goodreads.com/book/show/88350.The_Lady_Who_Liked_Clean_Restrooms) by J.P. Donleavy
+- [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato)) by Plato
+- [Choke](https://en.wikipedia.org/wiki/Choke_(novel)) by Chuck Palahniuk
 - [Gingerbread](https://www.goodreads.com/book/show/40634915-gingerbread) by Helen Oyeyemi
+- [Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming) by Stephen Blackheath and Anthony Jones
 
 ## 2019
-- [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly) by Philip K. Dick
+- [Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants ](https://www.goodreads.com/book/show/17465709-braiding-sweetgrass) by Robin Wall Kimmerer *
+- [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly) by Philip K. Dick *
 - [The Sense of an Ending](https://en.wikipedia.org/wiki/The_Sense_of_an_Ending) by Julian Barnes
 - [City of Glass](https://www.goodreads.com/book/show/432.City_of_Glass) by Paul Auster
 - [Detroit City Is The Place To Be: The Afterlife of an American Metropolis](https://en.wikipedia.org/wiki/Detroit_City_Is_the_Place_to_Be) by Mark Binelli
