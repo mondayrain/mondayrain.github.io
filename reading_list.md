@@ -10,12 +10,17 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [The Republic](https://en.wikipedia.org/wiki/Republic_(Plato)) by Plato
-- [Choke](https://en.wikipedia.org/wiki/Choke_(novel)) by Chuck Palahniuk
-- [Gingerbread](https://www.goodreads.com/book/show/40634915-gingerbread) by Helen Oyeyemi
-- [Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming) by Stephen Blackheath and Anthony Jones
+- [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
+- [Home Truths](https://www.goodreads.com/book/show/1296258.Home_Truths) by Mavis Gallant
+- [Lemon](https://www.goodreads.com/book/show/6539583-lemon) by Cordelia Strube
+- [Gardening 101 : learn how to plan, plant, and maintain a garden](https://www.amazon.com/Gardening-101-Learn-Maintain-Garden/dp/0609805479/ref=cm_cr_arp_d_product_top?ie=UTF8) from Martha Stewart Living Magazine
+
+## 2020
+-[Love Lives Here: A Story of Thriving in a Transgender Family](https://www.goodreads.com/book/show/43232391-love-lives-here) by Amanda Jette Knox
+-[The Fifth Season - The Broken Earth](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin
 
 ## 2019
+- [Gingerbread](https://www.goodreads.com/book/show/40634915-gingerbread) by Helen Oyeyemi
 - [Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants ](https://www.goodreads.com/book/show/17465709-braiding-sweetgrass) by Robin Wall Kimmerer *
 - [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly) by Philip K. Dick *
 - [The Sense of an Ending](https://en.wikipedia.org/wiki/The_Sense_of_an_Ending) by Julian Barnes
