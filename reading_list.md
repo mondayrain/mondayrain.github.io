@@ -16,8 +16,8 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Gardening 101 : learn how to plan, plant, and maintain a garden](https://www.amazon.com/Gardening-101-Learn-Maintain-Garden/dp/0609805479/ref=cm_cr_arp_d_product_top?ie=UTF8) from Martha Stewart Living Magazine
 
 ## 2020
--[Love Lives Here: A Story of Thriving in a Transgender Family](https://www.goodreads.com/book/show/43232391-love-lives-here) by Amanda Jette Knox
--[The Fifth Season - The Broken Earth](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin
+- [Love Lives Here: A Story of Thriving in a Transgender Family](https://www.goodreads.com/book/show/43232391-love-lives-here) by Amanda Jette Knox
+- [The Fifth Season - The Broken Earth](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin
 
 ## 2019
 - [Gingerbread](https://www.goodreads.com/book/show/40634915-gingerbread) by Helen Oyeyemi
