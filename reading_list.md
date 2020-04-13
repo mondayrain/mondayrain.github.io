@@ -14,6 +14,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) by Shirley Jackson
 - [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony) by Franz Kafka
 - [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison
+- [The Emotion Thesaurus: A Writer's Guide to Character Expression ](https://www.goodreads.com/book/show/13554235-the-emotion-thesaurus) by  Angela Ackerman (Goodreads Author) & Becca Puglisi 
 
 ## 2020
 - [On the Shores of Darkness, There Is Light](https://www.goodreads.com/book/show/26113653-on-the-shores-of-darkness-there-is-light) by Cordelia Strube
