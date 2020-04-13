@@ -10,12 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
-- [Home Truths](https://www.goodreads.com/book/show/1296258.Home_Truths) by Mavis Gallant
-- [On the Shores of Darkness, There Is Light](https://www.goodreads.com/book/show/26113653-on-the-shores-of-darkness-there-is-light) by Cordelia Strube
-- [Gardening 101 : learn how to plan, plant, and maintain a garden](https://www.amazon.com/Gardening-101-Learn-Maintain-Garden/dp/0609805479/ref=cm_cr_arp_d_product_top?ie=UTF8) from Martha Stewart Living Magazine
+- [The Tempest](https://en.wikipedia.org/wiki/The_Tempest) by William Shakespeare
+- [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) by Shirley Jackson
+- [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony) by Franz Kafka
+- [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison
 
 ## 2020
+- [On the Shores of Darkness, There Is Light](https://www.goodreads.com/book/show/26113653-on-the-shores-of-darkness-there-is-light) by Cordelia Strube
 - [I Hope We Choose Love: A Trans Girl's Notes from the End of the World ](https://www.goodreads.com/book/show/44000539-i-hope-we-choose-love) by Kai Cheng Thom *
 - [The Stone Sky (The Broken Earth #3)](https://www.goodreads.com/book/show/31817749-the-stone-sky) by N.K. Jemisin
 - [The Obelisk Gate (The Broken Earth #2)](https://www.goodreads.com/book/show/26228034-the-obelisk-gate) by N.K. Jemisin
