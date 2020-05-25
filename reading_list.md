@@ -14,6 +14,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
 
 ## 2020
+- [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink
 - [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) by Albert Camus * 
 - [Axolotl](https://ciudadseva.com/texto/axolotl/) by Julio Cortázar 
 - [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) by Connie Willis
