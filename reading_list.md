@@ -22,6 +22,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [The Tempest](https://en.wikipedia.org/wiki/The_Tempest) by William Shakespeare
 - [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) by Shirley Jackson
 - [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony) by Franz Kafka
+- [Lemon](https://www.goodreads.com/book/show/6539583-lemon) by Cordelia Strube
 - [On the Shores of Darkness, There Is Light](https://www.goodreads.com/book/show/26113653-on-the-shores-of-darkness-there-is-light) by Cordelia Strube
 - [I Hope We Choose Love: A Trans Girl's Notes from the End of the World ](https://www.goodreads.com/book/show/44000539-i-hope-we-choose-love) by Kai Cheng Thom *
 - [The Stone Sky (The Broken Earth #3)](https://www.goodreads.com/book/show/31817749-the-stone-sky) by N.K. Jemisin
