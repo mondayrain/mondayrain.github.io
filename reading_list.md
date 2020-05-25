@@ -10,13 +10,17 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
+- [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
+- [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
+
+## 2020
+- [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) by Albert Camus * 
+- [Axolotl](https://ciudadseva.com/texto/axolotl/) by Julio Cortázar 
+- [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) by Connie Willis
+- [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison <small>_(unfinished for now, slowly working through the exercises in the book!)_</small>
 - [The Tempest](https://en.wikipedia.org/wiki/The_Tempest) by William Shakespeare
 - [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) by Shirley Jackson
 - [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony) by Franz Kafka
-- [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison
-- [The Emotion Thesaurus: A Writer's Guide to Character Expression ](https://www.goodreads.com/book/show/13554235-the-emotion-thesaurus) by  Angela Ackerman & Becca Puglisi 
-
-## 2020
 - [On the Shores of Darkness, There Is Light](https://www.goodreads.com/book/show/26113653-on-the-shores-of-darkness-there-is-light) by Cordelia Strube
 - [I Hope We Choose Love: A Trans Girl's Notes from the End of the World ](https://www.goodreads.com/book/show/44000539-i-hope-we-choose-love) by Kai Cheng Thom *
 - [The Stone Sky (The Broken Earth #3)](https://www.goodreads.com/book/show/31817749-the-stone-sky) by N.K. Jemisin
