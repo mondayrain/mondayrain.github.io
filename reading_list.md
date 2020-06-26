@@ -10,10 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
-- [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
+- [Go Tell It on the Mountain](https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)) by James Baldwin
+- [Exile and the Kingdom](https://en.wikipedia.org/wiki/Exile_and_the_Kingdom) by Albert Camus
 
 ## 2020
+- [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
+- [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
+- [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
 - [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink
 - [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) by Albert Camus * 
 - [Axolotl](https://ciudadseva.com/texto/axolotl/) by Julio Cortázar 
