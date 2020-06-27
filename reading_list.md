@@ -12,6 +12,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 ## Current
 - [Go Tell It on the Mountain](https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)) by James Baldwin
 - [Exile and the Kingdom](https://en.wikipedia.org/wiki/Exile_and_the_Kingdom) by Albert Camus
+- [Anna Karenina](https://en.wikipedia.org/wiki/Anna_Karenina) by Leo Tolstoy
 
 ## 2020
 - [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
