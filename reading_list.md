@@ -22,7 +22,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
 - [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
 - [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink
-- [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) (<small><i>short story</i></small>) by Albert Camus * <small><i>short story</i></small>
+- [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) (<small><i>short story</i></small>) by Albert Camus *
 - [Axolotl](https://ciudadseva.com/texto/axolotl/) (<small><i>short story</i></small>) by Julio Cortázar 
 - [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) (<small><i>short story</i></small>) by Connie Willis
 - [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison <small>_(unfinished for now, slowly working through the exercises in the book!)_</small>
