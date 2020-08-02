@@ -10,11 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Superpower, Interrupted: The Chinese History of the World](https://www.kobo.com/ca/en/ebook/superpower-interrupted) by Michael Schuman
+- [Introduction to Classical Chinese Philosophy](https://www.goodreads.com/book/show/10165606-introduction-to-classical-chinese-philosophy) by Bryan W. Van Norden
+- [Readings in Classical Chinese Philosophy](https://www.goodreads.com/book/show/31864.Readings_in_Classical_Chinese_Philosophy) edited by Philip J. Ivanhoe & Bryan W. Van Norden
 - [In the Skin of a Lion](https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion) by Michael Ondaatje
-- [Exile and the Kingdom](https://en.wikipedia.org/wiki/Exile_and_the_Kingdom) by Albert Camus
+- [Binti][https://www.goodreads.com/book/show/25667918-binti] by Nnedi Okorafor
 
 ## 2020
+- [Superpower, Interrupted: The Chinese History of the World](https://www.kobo.com/ca/en/ebook/superpower-interrupted) by Michael Schuman
 - [Go Tell It on the Mountain](https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)) by James Baldwin
 - [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
 - [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
