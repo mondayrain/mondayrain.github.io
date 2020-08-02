@@ -22,13 +22,13 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
 - [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
 - [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink
-- [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) by Albert Camus * 
-- [Axolotl](https://ciudadseva.com/texto/axolotl/) by Julio Cortázar 
-- [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) by Connie Willis
+- [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) <small><i>short story</i></small> by Albert Camus * <small><i>short story</i></small>
+- [Axolotl](https://ciudadseva.com/texto/axolotl/) <small><i>short story</i></small> by Julio Cortázar 
+- [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) <small><i>short story</i></small> by Connie Willis
 - [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison <small>_(unfinished for now, slowly working through the exercises in the book!)_</small>
 - [The Tempest](https://en.wikipedia.org/wiki/The_Tempest) by William Shakespeare
-- [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) by Shirley Jackson
-- [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony) by Franz Kafka
+- [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) <small><i>short story</i></small> by Shirley Jackson
+- [In the Penal Colony](https://en.wikipedia.org/wiki/In_the_Penal_Colony) <small><i>short story</i></small> by Franz Kafka
 - [Lemon](https://www.goodreads.com/book/show/6539583-lemon) by Cordelia Strube
 - [On the Shores of Darkness, There Is Light](https://www.goodreads.com/book/show/26113653-on-the-shores-of-darkness-there-is-light) by Cordelia Strube
 - [I Hope We Choose Love: A Trans Girl's Notes from the End of the World ](https://www.goodreads.com/book/show/44000539-i-hope-we-choose-love) by Kai Cheng Thom *
