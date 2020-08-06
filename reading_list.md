@@ -11,8 +11,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Binti](https://www.goodreads.com/book/show/25667918-binti) by Nnedi Okorafor
-- [Introduction to Classical Chinese Philosophy](https://www.goodreads.com/book/show/10165606-introduction-to-classical-chinese-philosophy) by Bryan W. Van Norden
-- [Readings in Classical Chinese Philosophy](https://www.goodreads.com/book/show/31864.Readings_in_Classical_Chinese_Philosophy) edited by Philip J. Ivanhoe & Bryan W. Van Norden
+- [Confessions of a Microfinance Heretic](https://www.goodreads.com/book/show/13234028-confessions-of-a-microfinance-heretic) by Hugh Sinclair
 - [Literary Theory: A Complete Introduction](https://www.goodreads.com/book/show/33296595-literary-theory) by Sara Upstone
 
 ## 2020
