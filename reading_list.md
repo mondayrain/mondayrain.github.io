@@ -10,11 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Binti](https://www.goodreads.com/book/show/25667918-binti) by Nnedi Okorafor
-- [Confessions of a Microfinance Heretic](https://www.goodreads.com/book/show/13234028-confessions-of-a-microfinance-heretic) by Hugh Sinclair
 - [Literary Theory: A Complete Introduction](https://www.goodreads.com/book/show/33296595-literary-theory) by Sara Upstone
+- [The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray) by Oscar Wilde
+- [Heart of Darkness](https://en.wikipedia.org/wiki/Heart_of_Darkness) by Joseph Conrad
 
 ## 2020
+- [Binti](https://www.goodreads.com/book/show/25667918-binti) by Nnedi Okorafor
+- [Confessions of a Microfinance Heretic](https://www.goodreads.com/book/show/13234028-confessions-of-a-microfinance-heretic) by Hugh Sinclair
 - [Superpower, Interrupted: The Chinese History of the World](https://www.kobo.com/ca/en/ebook/superpower-interrupted) by Michael Schuman
 - [Go Tell It on the Mountain](https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)) by James Baldwin
 - [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
