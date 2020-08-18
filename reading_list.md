@@ -13,6 +13,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [Literary Theory: A Complete Introduction](https://www.goodreads.com/book/show/33296595-literary-theory) by Sara Upstone
 - [Heart of Darkness](https://en.wikipedia.org/wiki/Heart_of_Darkness) by Joseph Conrad
 - [How Should a Person Be?](https://www.goodreads.com/book/show/9361377-how-should-a-person-be) by Sheila Heti
+- [Swan Song](https://www.goodreads.com/book/show/333418.Swan_Song) by Anton Chekhov
 
 ## 2020
 - [The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray) by Oscar Wilde *
