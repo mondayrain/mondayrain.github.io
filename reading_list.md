@@ -12,10 +12,11 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 ## Current
 - [Literary Theory: A Complete Introduction](https://www.goodreads.com/book/show/33296595-literary-theory) by Sara Upstone
 - [Heart of Darkness](https://en.wikipedia.org/wiki/Heart_of_Darkness) by Joseph Conrad
-- [How Should a Person Be?](https://www.goodreads.com/book/show/9361377-how-should-a-person-be) by Sheila Heti
 - [Swan Song](https://www.goodreads.com/book/show/333418.Swan_Song) by Anton Chekhov
+- [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith
 
 ## 2020
+- [How Should a Person Be?](https://www.goodreads.com/book/show/9361377-how-should-a-person-be) by Sheila Heti
 - [The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray) by Oscar Wilde *
 - [Binti](https://www.goodreads.com/book/show/25667918-binti) by Nnedi Okorafor
 - [Confessions of a Microfinance Heretic](https://www.goodreads.com/book/show/13234028-confessions-of-a-microfinance-heretic) by Hugh Sinclair
