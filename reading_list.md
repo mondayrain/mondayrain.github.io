@@ -10,12 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Literary Theory: A Complete Introduction](https://www.goodreads.com/book/show/33296595-literary-theory) by Sara Upstone
-- [Heart of Darkness](https://en.wikipedia.org/wiki/Heart_of_Darkness) by Joseph Conrad
-- [Swan Song](https://www.goodreads.com/book/show/333418.Swan_Song) by Anton Chekhov
 - [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith
+- [Power games : a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
 
 ## 2020
+- [In the Skin of a Lion](https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion) by Michael Ondaatje *
+- [How Music Works](https://en.wikipedia.org/wiki/How_Music_Works) by David Byrne
+- [Swan Song](https://www.goodreads.com/book/show/333418.Swan_Song) <small><i>(play)</i></small> by Anton Chekhov
 - [How Should a Person Be?](https://www.goodreads.com/book/show/9361377-how-should-a-person-be) by Sheila Heti
 - [The Picture of Dorian Gray](https://en.wikipedia.org/wiki/The_Picture_of_Dorian_Gray) by Oscar Wilde *
 - [Binti](https://www.goodreads.com/book/show/25667918-binti) by Nnedi Okorafor
