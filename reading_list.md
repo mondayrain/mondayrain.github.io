@@ -15,6 +15,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## 2020
 - [In the Skin of a Lion](https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion) by Michael Ondaatje *
+- [From the Ashes: My Story of Being Métis, Homeless, and Finding My Way](https://www.goodreads.com/en/book/show/43822761-from-the-ashes) by Jesse Thistle
 - [How Music Works](https://en.wikipedia.org/wiki/How_Music_Works) by David Byrne
 - [Swan Song](https://www.goodreads.com/book/show/333418.Swan_Song) <small><i>(play)</i></small> by Anton Chekhov
 - [How Should a Person Be?](https://www.goodreads.com/book/show/9361377-how-should-a-person-be) by Sheila Heti
