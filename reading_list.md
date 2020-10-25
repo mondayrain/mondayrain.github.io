@@ -11,9 +11,12 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 
 ## Current
 - [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith
-- [Power games : a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
+- [The Architecture of Happiness](https://en.wikipedia.org/wiki/The_Architecture_of_Happiness) by Alain de Botton
+- [The Amazing Adventures of Kavalier & Clay](https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay) by Michael Chabon
 
 ## 2020
+- [Power games: a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
+- [The State of Affairs: Rethinking Infidelity](https://www.goodreads.com/book/show/34017010-the-state-of-affairs) by Esther Perel *
 - [In the Skin of a Lion](https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion) by Michael Ondaatje *
 - [From the Ashes: My Story of Being Métis, Homeless, and Finding My Way](https://www.goodreads.com/en/book/show/43822761-from-the-ashes) by Jesse Thistle
 - [How Music Works](https://en.wikipedia.org/wiki/How_Music_Works) by David Byrne
