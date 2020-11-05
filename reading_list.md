@@ -10,11 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith
 - [The Architecture of Happiness](https://en.wikipedia.org/wiki/The_Architecture_of_Happiness) by Alain de Botton
 - [The Amazing Adventures of Kavalier & Clay](https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay) by Michael Chabon
 
 ## 2020
+- [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith *
 - [Power games: a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
 - [The State of Affairs: Rethinking Infidelity](https://www.goodreads.com/book/show/34017010-the-state-of-affairs) by Esther Perel *
 - [In the Skin of a Lion](https://en.wikipedia.org/wiki/In_the_Skin_of_a_Lion) by Michael Ondaatje *
