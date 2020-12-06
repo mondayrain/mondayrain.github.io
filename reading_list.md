@@ -47,7 +47,6 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [I Hope We Choose Love: A Trans Girl's Notes from the End of the World ](https://www.goodreads.com/book/show/44000539-i-hope-we-choose-love) by Kai Cheng Thom *
 - [The Stone Sky (The Broken Earth #3)](https://www.goodreads.com/book/show/31817749-the-stone-sky) by N.K. Jemisin
 - [The Obelisk Gate (The Broken Earth #2)](https://www.goodreads.com/book/show/26228034-the-obelisk-gate) by N.K. Jemisin
-- [Lemon](https://www.goodreads.com/book/show/6539583-lemon) by Cordelia Strube
 - [Love Lives Here: A Story of Thriving in a Transgender Family](https://www.goodreads.com/book/show/43232391-love-lives-here) by Amanda Jette Knox
 - [The Fifth Season (The Broken Earth #1)](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin
 
