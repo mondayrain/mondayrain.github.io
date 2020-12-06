@@ -10,10 +10,14 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [The Architecture of Happiness](https://en.wikipedia.org/wiki/The_Architecture_of_Happiness) by Alain de Botton
-- [The Amazing Adventures of Kavalier & Clay](https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay) by Michael Chabon
+- [The Invisible Man](https://en.wikipedia.org/wiki/The_Invisible_Man) by H.G. Wells
+- [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar) by Sylvia Plath
+- [Snow](https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)) by Orhan Pamuk
 
 ## 2020
+- [Pendragon #2: The Lost City of Faar](https://www.goodreads.com/book/show/215543.The_Lost_City_of_Faar) by D.J. MacHale
+- [Pendragon #1: The Merchant of Death](https://www.goodreads.com/book/show/833710.The_Merchant_of_Death) by D.J. MacHale
+- [The Architecture of Happiness](https://en.wikipedia.org/wiki/The_Architecture_of_Happiness) by Alain de Botton
 - [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith *
 - [Power games: a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
 - [The State of Affairs: Rethinking Infidelity](https://www.goodreads.com/book/show/34017010-the-state-of-affairs) by Esther Perel *
