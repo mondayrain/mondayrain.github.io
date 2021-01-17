@@ -10,9 +10,10 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [The Invisible Man](https://en.wikipedia.org/wiki/The_Invisible_Man) by H.G. Wells
-- [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar) by Sylvia Plath
 - [Snow](https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)) by Orhan Pamuk
+
+## 2021
+- [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar) by Sylvia Plath
 
 ## 2020
 - [Pendragon #4: The Reality Bug](https://www.goodreads.com/book/show/215541.The_Reality_Bug) by D.J. MacHale
@@ -38,7 +39,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
 - [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink
 - [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) (<small><i>short story</i></small>) by Albert Camus *
-- [Axolotl](https://ciudadseva.com/texto/axolotl/) (<small><i>short story</i></small>) by Julio Cortázar 
+- [Axolotl](https://ciudadseva.com/texto/axolotl/) (<small><i>short story</i></small>) by Julio Cortázar
 - [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) (<small><i>short story</i></small>) by Connie Willis
 - [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison <small>_(unfinished for now, slowly working through the exercises in the book!)_</small>
 - [The Tempest](https://en.wikipedia.org/wiki/The_Tempest) by William Shakespeare

@@ -7,6 +7,6 @@ title: Writing
 <br/> It always does, and it always will."
 <br/>- Barry Jenkins</i>
 
-I haven't written anything interesting yet, but I will. My musings are still thoughts, trying to find the perfect form in characters.
+I haven't written anything interesting yet, but I will.
 
 Stay tuned.
