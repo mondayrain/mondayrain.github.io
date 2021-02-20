@@ -10,9 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Snow](https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)) by Orhan Pamuk
+- [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier 
 
 ## 2021
+- [Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants](https://www.goodreads.com/en/book/show/41150687-chop-suey-nation) by Ann Hui *
+- [21 Things You May Not Know About the Indian Act](https://www.goodreads.com/en/book/show/38620150-21-things-you-may-not-know-about-the-indian-act) by Bob Joseph *
+- [Brother](https://www.goodreads.com/book/show/36672820-brother) by David Chariandy
+- [Snow](https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)) by Orhan Pamuk
 - [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar) by Sylvia Plath
 
 ## 2020
