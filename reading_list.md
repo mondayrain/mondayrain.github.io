@@ -10,9 +10,11 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier 
+- [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness) by Ursula K. Le Guin
+- [Canada in Africa - 300 Years of Aid and Expoitation ](https://www.goodreads.com/book/show/26460793-canada-in-africa---300-years-of-aid-and-expoitation) by Yves Engler
 
 ## 2021
+- [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier 
 - [Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants](https://www.goodreads.com/en/book/show/41150687-chop-suey-nation) by Ann Hui *
 - [21 Things You May Not Know About the Indian Act](https://www.goodreads.com/en/book/show/38620150-21-things-you-may-not-know-about-the-indian-act) by Bob Joseph *
 - [Brother](https://www.goodreads.com/book/show/36672820-brother) by David Chariandy
