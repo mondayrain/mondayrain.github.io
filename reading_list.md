@@ -22,10 +22,6 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar) by Sylvia Plath
 
 ## 2020
-- [Pendragon #4: The Reality Bug](https://www.goodreads.com/book/show/215541.The_Reality_Bug) by D.J. MacHale
-- [Pendragon #3: The Never War](https://www.goodreads.com/book/show/536982.The_Never_War) by D.J. MacHale
-- [Pendragon #2: The Lost City of Faar](https://www.goodreads.com/book/show/215543.The_Lost_City_of_Faar) by D.J. MacHale
-- [Pendragon #1: The Merchant of Death](https://www.goodreads.com/book/show/833710.The_Merchant_of_Death) by D.J. MacHale
 - [The Architecture of Happiness](https://en.wikipedia.org/wiki/The_Architecture_of_Happiness) by Alain de Botton
 - [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith *
 - [Power games: a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
