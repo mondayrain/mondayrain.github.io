@@ -11,7 +11,7 @@ Each week I put aside some time to just sit and listen closely to a record. I ne
 
 ### 2021 February
 - **Punisher** _(2020)_ - Phoebe Bridgers
-- **Either/Or** _(1997)_ - Elliot Smoth
+- **Either/Or** _(1997)_ - Elliot Smith
 - **Court and Spark** _(1974)_ - Joni Mitchell
 - **Little Oblivions** _(2021)_ - Julien Baker
 
