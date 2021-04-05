@@ -10,10 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness) by Ursula K. Le Guin
-- [Canada in Africa - 300 Years of Aid and Expoitation ](https://www.goodreads.com/book/show/26460793-canada-in-africa---300-years-of-aid-and-expoitation) by Yves Engler
+- [Perfect From Now On: How Indie Rock Saved My Life](https://www.goodreads.com/book/show/233743.Perfect_from_Now_On) by John Sellers
+- [A Complicated Kindness](https://www.goodreads.com/book/show/13374.A_Complicated_Kindness) by Miriam Toews
+- [Soft City: Building Density for Everyday Life](https://www.goodreads.com/book/show/42480560-soft-city) by David Sim
 
 ## 2021
+- [Attack Surface](https://www.goodreads.com/en/book/show/49247283-attack-surface) by Cory Doctorow
+- [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness) by Ursula K. Le Guin *
 - [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier 
 - [Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants](https://www.goodreads.com/en/book/show/41150687-chop-suey-nation) by Ann Hui *
 - [21 Things You May Not Know About the Indian Act](https://www.goodreads.com/en/book/show/38620150-21-things-you-may-not-know-about-the-indian-act) by Bob Joseph *
