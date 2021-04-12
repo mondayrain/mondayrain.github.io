@@ -10,11 +10,13 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Perfect From Now On: How Indie Rock Saved My Life](https://www.goodreads.com/book/show/233743.Perfect_from_Now_On) by John Sellers
+
 - [A Complicated Kindness](https://www.goodreads.com/book/show/13374.A_Complicated_Kindness) by Miriam Toews
 - [Soft City: Building Density for Everyday Life](https://www.goodreads.com/book/show/42480560-soft-city) by David Sim
+- [Sex, drugs, and cocoa puffs : a low culture manifesto](https://en.wikipedia.org/wiki/Sex,_Drugs,_and_Cocoa_Puffs) by Chuck Klosterman
 
 ## 2021
+- [Perfect From Now On: How Indie Rock Saved My Life](https://www.goodreads.com/book/show/233743.Perfect_from_Now_On) by John Sellers <small>_(unfinished, less about Indie Rock & life-saving & more about being inexplicably snotty)_</small>
 - [Attack Surface](https://www.goodreads.com/en/book/show/49247283-attack-surface) by Cory Doctorow
 - [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness) by Ursula K. Le Guin *
 - [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier 
