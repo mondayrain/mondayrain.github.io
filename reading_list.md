@@ -10,7 +10,7 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Heavier Than Heaven: A Biography of Kurt CObain](https://en.wikipedia.org/wiki/Heavier_Than_Heaven) by Charles R. Cross
+- [Heavier Than Heaven: A Biography of Kurt Cobain](https://en.wikipedia.org/wiki/Heavier_Than_Heaven) by Charles R. Cross
 - [Soft City: Building Density for Everyday Life](https://www.goodreads.com/book/show/42480560-soft-city) by David Sim
 - [Sex, drugs, and cocoa puffs : a low culture manifesto](https://en.wikipedia.org/wiki/Sex,_Drugs,_and_Cocoa_Puffs) by Chuck Klosterman
 
