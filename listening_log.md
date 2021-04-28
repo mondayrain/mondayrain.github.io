@@ -14,6 +14,7 @@ Here are some albums that I ended up playing on repeat:
 - **Is This It** _(2001)_ - The Strokes
 - **Maybe You've Been Brainwashed Too** _(1998)_ - New Radicals
 - **The Colour And The Shape** _(1997)_ - Foo Fighters
+- **MY WOMAN** _(2016)_ - Angel Olsen
 
 ### 2021 March
 - **Little Oblivions** _(2021)_ - Julien Baker
