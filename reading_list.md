@@ -15,7 +15,7 @@ I read a lot. I read as much as I can. I read in an attempt to truly understand 
 - [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by  Daniel J. Levitin
 
 ## 2021
-- [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven) by Emily St. John Mandel *
+- [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven) by Emily St. John Mandel
 - [Soft City: Building Density for Everyday Life](https://www.goodreads.com/book/show/42480560-soft-city) by David Sim
 - [The Professional](https://www.goodreads.com/en/book/show/1034794.The_Professional) by W.C. Heinz *
 - [Sex, drugs, and cocoa puffs : a low culture manifesto](https://en.wikipedia.org/wiki/Sex,_Drugs,_and_Cocoa_Puffs) by Chuck Klosterman
