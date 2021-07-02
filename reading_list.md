@@ -10,11 +10,12 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Words Will Break Cement: The Passion of Pussy Riot](https://www.goodreads.com/book/show/18114206-words-will-break-cement) by Masha Gessen
-- [History of Wolves](https://www.goodreads.com/book/show/30183198-history-of-wolves) by Emily Fridlund
+- [Manhattan Beach](https://www.goodreads.com/book/show/34467031-manhattan-beach) by Jennifer Egan
 - [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by  Daniel J. Levitin
 
 ## 2021
+- [Words Will Break Cement: The Passion of Pussy Riot](https://www.goodreads.com/book/show/18114206-words-will-break-cement) by Masha Gessen
+- [History of Wolves](https://www.goodreads.com/book/show/30183198-history-of-wolves) by Emily Fridlund *
 - [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven) by Emily St. John Mandel
 - [Soft City: Building Density for Everyday Life](https://www.goodreads.com/book/show/42480560-soft-city) by David Sim
 - [The Professional](https://www.goodreads.com/en/book/show/1034794.The_Professional) by W.C. Heinz *
@@ -125,7 +126,7 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [Disgrace](https://www.goodreads.com/book/show/6192.Disgrace) by J.M. Coetzee
 - [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) by Anthony Doerr
 - [An Artist of the Floating World](https://www.goodreads.com/book/show/28922.An_Artist_of_the_Floating_World) by Kazuo Ishiguro *
-- [The Buried Giant](https://www.goodreads.com/book/show/22522805-the-buried-giant) by Kazuo Ishiguro
+- [The Buried Giant](https://www.goodreads.com/book/show/22522805-the-buried-giant) by Kazuo Ishiguro *
 - [A Short History of Southeast Asia](https://www.goodreads.com/book/show/1653813.A_Short_History_of_South_East_Asia) by Peter Church
 - [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name) by  André Aciman *
 - [The Underground Railroad](https://www.goodreads.com/book/show/30555488-the-underground-railroad) by Colson Whitehead
@@ -150,5 +151,5 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [Assignment Alcatraz](https://www.goodreads.com/book/show/23524221-assignment-alcatraz) by Patrick Mahoney
 - [What We Talk About When We Talk About Love](https://www.goodreads.com/book/show/11438.What_We_Talk_About_When_We_Talk_About_Love) by Raymond Carver *
 - [Mastery: The Keys to Success and Long-Term Fulfillment](https://www.goodreads.com/book/show/81940.Mastery) by George Leonard
-- [The Sirens of Titan](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan) by Kurt Vonnegut
+- [The Sirens of Titan](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan) by Kurt Vonnegut *
 - [Slaughterhouse-Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five) by Kurt Vonnegut
