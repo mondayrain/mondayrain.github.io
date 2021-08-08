@@ -10,10 +10,15 @@ title: Reading List
 I read a lot. I read as much as I can. I read in an attempt to truly understand how the world and the beings within it work, which - given that nothing is mutually exclusive - means that I try read everything.
 
 ## Current
-- [Manhattan Beach](https://www.goodreads.com/book/show/34467031-manhattan-beach) by Jennifer Egan
-- [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by  Daniel J. Levitin
+- [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://arsenalpulp.com/Books/C/Conflict-Is-Not-Abuse) by Sarah Schulman
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous 
+- [The Secret Life of Bees](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)) by Sue Monk Kidd
 
 ## 2021
+- [Fat City](https://en.wikipedia.org/wiki/Fat_City) by Leonard Gardner
+- [Manhattan Beach](https://www.goodreads.com/book/show/34467031-manhattan-beach) by Jennifer Egan
+- [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by  Daniel J. Levitin
+- [A Complicated Kindness](https://en.wikipedia.org/wiki/A_Complicated_Kindness) by Miriam Toews
 - [Words Will Break Cement: The Passion of Pussy Riot](https://www.goodreads.com/book/show/18114206-words-will-break-cement) by Masha Gessen
 - [History of Wolves](https://www.goodreads.com/book/show/30183198-history-of-wolves) by Emily Fridlund *
 - [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven) by Emily St. John Mandel
