@@ -10,28 +10,41 @@ Each week I try to put aside some time to just sit and listen closely to a recor
 
 Here are some albums that I ended up playing on repeat:
 
-### 2021 May
+## 2021
+
+### August
+- **The House Is Burning** _(2021)_ - Isaiah Rashad
+
+### July
+- **Schlagenheim** _(2019)_ - black midi
+- **Stripped** _(2002)_ - Christina Aguilera
+
+### June
+- **Loner** _(2018)_ - Caroline Rose
+- **Petals for Armor** _(2020)_ - Hayley Williams
+
+### May
 - **Actor** _(2009)_ - St Vincent
 - **Every Where Is Some Where** _(2017)_ - K. Flay
 - **Clean** _(2018)_ - Soccer Mommy
 
-### 2021 April
+### April
 - **Is This It** _(2001)_ - The Strokes
 - **Maybe You've Been Brainwashed Too** _(1998)_ - New Radicals
 - **The Colour And The Shape** _(1997)_ - Foo Fighters
 - **MY WOMAN** _(2016)_ - Angel Olsen
 
-### 2021 March
+### March
 - **Little Oblivions** _(2021)_ - Julien Baker
 - **Chaos Chaos** _(2018)_ - Chaos Chaos
 - **Odd Cure** _(2020)_ - Oddissee
 
-### 2021 February
+### February
 - **Punisher** _(2020)_ - Phoebe Bridgers
 - **Either/Or** _(1997)_ - Elliot Smith
 - **Court and Spark** _(1974)_ - Joni Mitchell
 
-### 2021 January
+### January
 - **What We Drew 우리가 그려왔던** _(2020)_ - Yaeji
 - **Madvillainy** _(2004)_ - Madvillain
 - **To Pimp a Butterfly** _(2015)_ - Kendrick Lamar
