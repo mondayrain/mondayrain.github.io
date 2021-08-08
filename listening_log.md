@@ -10,6 +10,10 @@ Each week I try to put aside some time to just sit and listen closely to a recor
 
 Here are some albums that I ended up playing on repeat:
 
+### 2021 May
+- **Actor** _(2009)_ - St Vincent
+- **Every Where Is Some Where** _(2017)_ - K. Flay
+
 ### 2021 April
 - **Is This It** _(2001)_ - The Strokes
 - **Maybe You've Been Brainwashed Too** _(1998)_ - New Radicals
