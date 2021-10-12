@@ -8,11 +8,12 @@ title: Reading List
 <br/>- Ray Bradbury</i>
 
 ## Current
-- [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://arsenalpulp.com/Books/C/Conflict-Is-Not-Abuse) by Sarah Schulman
-- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous 
-- [The Secret Life of Bees](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)) by Sue Monk Kidd
+- [The House on Mango Street](https://www.goodreads.com/book/show/139253.The_House_on_Mango_Street) by Sandra Cisneros
 
 ## 2021
+- [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://arsenalpulp.com/Books/C/Conflict-Is-Not-Abuse) by Sarah Schulman
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous 
+- [The Secret Life of Bees](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)) by Sue Monk Kidd *
 - [Fat City](https://en.wikipedia.org/wiki/Fat_City) by Leonard Gardner
 - [Manhattan Beach](https://www.goodreads.com/book/show/34467031-manhattan-beach) by Jennifer Egan
 - [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by  Daniel J. Levitin
