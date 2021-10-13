@@ -26,7 +26,6 @@ title: Reading List
 - [The Professional](https://www.goodreads.com/en/book/show/1034794.The_Professional) by W.C. Heinz *
 - [Sex, drugs, and cocoa puffs : a low culture manifesto](https://en.wikipedia.org/wiki/Sex,_Drugs,_and_Cocoa_Puffs) by Chuck Klosterman
 - [Heavier Than Heaven: A Biography of Kurt Cobain](https://en.wikipedia.org/wiki/Heavier_Than_Heaven) by Charles R. Cross
-- [A Complicated Kindness](https://www.goodreads.com/book/show/13374.A_Complicated_Kindness) by Miriam Toews
 - [Perfect From Now On: How Indie Rock Saved My Life](https://www.goodreads.com/book/show/233743.Perfect_from_Now_On) by John Sellers <small>_(unfinished, less about Indie Rock & life-saving & more about being inexplicably snotty)_</small>
 - [Attack Surface](https://www.goodreads.com/en/book/show/49247283-attack-surface) by Cory Doctorow
 - [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness) by Ursula K. Le Guin *
