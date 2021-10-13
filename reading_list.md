@@ -11,6 +11,7 @@ title: Reading List
 - [The House on Mango Street](https://www.goodreads.com/book/show/139253.The_House_on_Mango_Street) by Sandra Cisneros
 
 ## 2021
+- [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam_(novel)) by Ian McEwan
 - [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://arsenalpulp.com/Books/C/Conflict-Is-Not-Abuse) by Sarah Schulman
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous 
 - [The Secret Life of Bees](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)) by Sue Monk Kidd *
