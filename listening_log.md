@@ -12,6 +12,9 @@ Here are some albums that I ended up playing on repeat:
 
 ## 2021
 
+### September
+- **LONER** _(2018)_ - Caroline Rose
+
 ### August
 - **The House Is Burning** _(2021)_ - Isaiah Rashad
 
