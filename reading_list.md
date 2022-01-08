@@ -8,7 +8,7 @@ title: Reading List
 <br/>- Ray Bradbury</i>
 
 ## Current
-- [The House on Mango Street](https://www.goodreads.com/book/show/139253.The_House_on_Mango_Street) by Sandra Cisneros
+- [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by Frank Herbert
 - [All About Love: New Visions](https://en.wikipedia.org/wiki/All_About_Love:_New_Visions) by bell hooks
 - [Pump: A Natural History of the Heart](https://www.goodreads.com/en/book/show/56271387-pump) by Bill Schutt
 
