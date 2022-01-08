@@ -21,7 +21,7 @@ Here are some albums that I ended up playing on repeat:
 ### December
 - **When Smoke Rises** - _(2021)_ - Mustafa
 - **Home Video** - _(2021)_ - Lucy Dacus
-- **to hell with it** - _()_ - PinkPantheress
+- **to hell with it** - _(2021)_ - PinkPantheress
 
 ### November
 - **Valentine** _(2021)_ - Snail Mail
