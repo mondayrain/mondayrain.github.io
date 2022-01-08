@@ -28,9 +28,6 @@ Here are some albums that I ended up playing on repeat:
 - **I Know I'm Funny haha** _(2021)_ - Faye Webster
 - **30** _(2021)_ - Adele
 
-### September
-- **LONER** _(2018)_ - Caroline Rose
-
 ### August
 - **The House Is Burning** _(2021)_ - Isaiah Rashad
 
@@ -39,7 +36,7 @@ Here are some albums that I ended up playing on repeat:
 - **Stripped** _(2002)_ - Christina Aguilera
 
 ### June
-- **Loner** _(2018)_ - Caroline Rose
+- **LONER** _(2018)_ - Caroline Rose
 - **Petals for Armor** _(2020)_ - Hayley Williams
 
 ### May
