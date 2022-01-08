@@ -10,7 +10,23 @@ Each week I try to put aside some time to just sit and listen closely to a recor
 
 Here are some albums that I ended up playing on repeat:
 
+## 2022
+
+### January
+- **Fearless** - _(2008)_ - Jazmine Sullivan
+- **Let Me Do One More** - _(2021)_ - illuminati hotties
+
 ## 2021
+
+### December
+- **When Smoke Rises** - _(2021)_ - Mustafa
+- **Home Video** - _(2021)_ - Lucy Dacus
+- **to hell with it** - _()_ - PinkPantheress
+
+### November
+- **Valentine** _(2021)_ - Snail Mail
+- **I Know I'm Funny haha** _(2021)_ - Faye Webster
+- **30** _(2021)_ - Adele
 
 ### September
 - **LONER** _(2018)_ - Caroline Rose
@@ -27,7 +43,6 @@ Here are some albums that I ended up playing on repeat:
 - **Petals for Armor** _(2020)_ - Hayley Williams
 
 ### May
-- **Actor** _(2009)_ - St Vincent
 - **Every Where Is Some Where** _(2017)_ - K. Flay
 - **Clean** _(2018)_ - Soccer Mommy
 
