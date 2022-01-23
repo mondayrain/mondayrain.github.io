@@ -8,9 +8,11 @@ title: Reading List
 <br/>- Ray Bradbury</i>
 
 ## Current
+- [The Pearl](https://en.wikipedia.org/wiki/The_Pearl_(novella)) by John Steinbeck
+- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber)_ by David Chilton
+
+## 2022
 - [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by Frank Herbert
-- [All About Love: New Visions](https://en.wikipedia.org/wiki/All_About_Love:_New_Visions) by bell hooks
-- [Pump: A Natural History of the Heart](https://www.goodreads.com/en/book/show/56271387-pump) by Bill Schutt
 
 ## 2021
 - [To Live](https://en.wikipedia.org/wiki/To_Live_(novel)) by Yu Hua *
