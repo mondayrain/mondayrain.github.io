@@ -14,7 +14,7 @@ Here are some albums that I ended up playing on repeat:
 
 ### January
 - **Fearless** - _(2008)_ - Jazmine Sullivan
-- **Let Me Do One More** - _(2021)_ - illuminati hotties
+- **Floral Prince** _(2020)_ - Field Medic
 
 ## 2021
 
