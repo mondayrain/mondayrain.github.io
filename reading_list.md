@@ -9,7 +9,7 @@ title: Reading List
 
 ## Current
 - [The Pearl](https://en.wikipedia.org/wiki/The_Pearl_(novella)) by John Steinbeck
-- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber)_ by David Chilton
+- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber) by David Chilton
 
 ## 2022
 - [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by Frank Herbert
