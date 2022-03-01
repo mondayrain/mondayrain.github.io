@@ -8,12 +8,12 @@ title: Reading List
 <br/>- Ray Bradbury</i>
 
 ## Current
-
-- [Ru](https://en.wikipedia.org/wiki/Ru_(novel)) by Kim Thúy
 - [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber) by David Chilton
 - [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber 
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by Mark Manson
 
 ## 2022
+- [Ru](https://en.wikipedia.org/wiki/Ru_(novel)) by Kim Thúy *
 - [The Pearl](https://en.wikipedia.org/wiki/The_Pearl_(novella)) by John Steinbeck
 - [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by Frank Herbert
 
