@@ -7,4 +7,4 @@ title: Writing
 <br/> It always does, and it always will."
 <br/>- Barry Jenkins</i>
 
-One day I'll work up the courage to post something here.
+One day I'll work up the courage to post something here :)

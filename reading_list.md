@@ -8,11 +8,12 @@ title: Reading List
 <br/>- Ray Bradbury</i>
 
 ## Current
-- [The Wealthy Barber](https://en.wikipedia.org/wiki/The_Wealthy_Barber) by David Chilton
-- [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber 
-- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by Mark Manson
+- [Creatures of a Day: And Other Tales of Psychotherapy](https://www.goodreads.com/book/show/22825544-creatures-of-a-day) by Irvin D. Yalom
+- [East of Eden](https://en.wikipedia.org/wiki/East_of_Eden_(novel)) by John Steinbeck
 
 ## 2022
+- [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by Mark Manson
 - [Ru](https://en.wikipedia.org/wiki/Ru_(novel)) by Kim Thúy *
 - [The Pearl](https://en.wikipedia.org/wiki/The_Pearl_(novella)) by John Steinbeck
 - [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by Frank Herbert
@@ -22,7 +23,7 @@ title: Reading List
 - [Wolf in White Van](https://en.wikipedia.org/wiki/Wolf_in_White_Van) by John Darnielle *
 - [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam_(novel)) by Ian McEwan
 - [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://arsenalpulp.com/Books/C/Conflict-Is-Not-Abuse) by Sarah Schulman
-- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous 
+- [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous
 - [The Secret Life of Bees](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)) by Sue Monk Kidd *
 - [Fat City](https://en.wikipedia.org/wiki/Fat_City) by Leonard Gardner
 - [Manhattan Beach](https://www.goodreads.com/book/show/34467031-manhattan-beach) by Jennifer Egan
@@ -38,7 +39,7 @@ title: Reading List
 - [Perfect From Now On: How Indie Rock Saved My Life](https://www.goodreads.com/book/show/233743.Perfect_from_Now_On) by John Sellers <small>_(unfinished, less about Indie Rock & life-saving & more about being inexplicably snotty)_</small>
 - [Attack Surface](https://www.goodreads.com/en/book/show/49247283-attack-surface) by Cory Doctorow
 - [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness) by Ursula K. Le Guin *
-- [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier 
+- [Girl with the Pearl Earring](https://www.goodreads.com/book/show/6997364-girl-with-the-pearl-earring) by Tracy Chevalier
 - [Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants](https://www.goodreads.com/en/book/show/41150687-chop-suey-nation) by Ann Hui *
 - [21 Things You May Not Know About the Indian Act](https://www.goodreads.com/en/book/show/38620150-21-things-you-may-not-know-about-the-indian-act) by Bob Joseph *
 - [Brother](https://www.goodreads.com/book/show/36672820-brother) by David Chariandy

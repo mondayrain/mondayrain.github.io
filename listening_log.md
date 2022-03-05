@@ -6,11 +6,14 @@ title: Listening Log
 <i>"Do not listen with the intent to reply,
 <br/>but with the intent to understand."</i>
 
-Each week I try to put aside some time to just sit and listen closely to a record. I never listen to music with the intent of deciding whether a song/album is "good" or "bad", or even to see if I "like" it. Rather, I'm interested in hearing different approaches to production, processing, audio engineering, & songwriting. I try hard not to discriminate by genre.
-
-Here are some albums that I ended up playing on repeat:
+Here are some albums that I've really enjoyed:
 
 ## 2022
+
+### February
+- **I Don't Live Here Anymore** - _(2021)_ - The War on Drugs
+- **Last Birthday** - _(2021)_ - VALLEY
+- **House of Sugar** - _(2019)_ - Alex G
 
 ### January
 - **Fearless** - _(2008)_ - Jazmine Sullivan
