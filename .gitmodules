@@ -1,0 +1,6 @@
+[submodule "gohugo-theme-ed"]
+	path = gohugo-theme-ed
+	url = git@github.com:sergeyklay/gohugo-theme-ed.git
+[submodule "themes/ed"]
+	path = themes/ed
+	url = git@github.com:sergeyklay/gohugo-theme-ed.git
