@@ -1,0 +1,16 @@
+
+    /* TEAM */
+
+    Author: John Doe
+    Contact: john@example.com
+    GitHub: @john_doe
+    Twitter: @john_doe
+    From: Kyiv, Ukraine
+
+    /* SITE */
+
+    Last update: 2022/09/28
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, Open Graph protocol, Schema.org
+    Components: Hugo, Ed Theme, Lunr.js

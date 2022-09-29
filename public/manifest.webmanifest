@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest",
+  "id": "6b482906-3ad2-579c-6927-cb5d9a72ba07",
+  "name": "Larissa Feng.",
+  "short_name": "Software Developer | Cloud Infrastructure",
+  "description": "stuff you can peruse",
+  "lang": "en-us",
+  "dir": "ltr",
+  "start_url": "/index.html?source=pwa",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "orientation": "natural",
+  "shortcuts": [  
+    {
+      "name": "Home",
+      "short_name" : "home",
+      "url": "/"
+    } ,
+    {
+      "name": "Reading List",
+      "short_name" : "readinglist",
+      "url": "/reading_list/"
+    } ,
+    {
+      "name": "Listening Log",
+      "short_name" : "listeninglog",
+      "url": "/listening_log/"
+    } ,
+    {
+      "name": "Writing",
+      "short_name" : "writing",
+      "url": "/writing/"
+    } ,
+    {
+      "name": "Code",
+      "short_name" : "code",
+      "url": "https://www.github.com/mondayrain"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
+

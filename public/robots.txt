@@ -1,0 +1,3 @@
+# robots.txt file for "Larissa Feng." website, 
+User-agent: *
+Disallow: /
