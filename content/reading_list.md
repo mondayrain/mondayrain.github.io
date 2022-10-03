@@ -16,6 +16,7 @@ title: Reading List
 - [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) by Cathy O'Neil
 - [Isabella of Castile: The First Renaissance Queen](https://www.goodreads.com/book/show/2196112.Isabella_of_Castile) by Nancy Rubin Stuart *
 - [Spain: A Unique History](https://www.goodreads.com/en/book/show/10066326-spain) by Stanley G. Payne
+- [The Namesake](https://en.wikipedia.org/wiki/The_Namesake_(novel)) by Jhumpa Lahiri *
 - [Love in the Time of Cholera](https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera) by Gabriel García Márquez
 - [Words of Radiance](https://en.wikipedia.org/wiki/Words_of_Radiance) by Brandon Sanderson
 - [The Way of Kings](https://en.wikipedia.org/wiki/The_Way_of_Kings) by Brandon Sanderson *
