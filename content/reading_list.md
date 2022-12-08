@@ -8,11 +8,12 @@ title: Reading List
 <br/>- Ray Bradbury</i>
 
 ## Current
-- [The Driver in the Driverless Car: How Our Technology Choices Will Create the Future](https://www.goodreads.com/en/book/show/32171250-the-driver-in-the-driverless-car) by Vivek Wadhwa, Alex Salkever
-- [Bulfinch's Greek and Roman Mythology: The Age of Fable](https://www.goodreads.com/book/show/21267070-bulfinch-s-greek-and-roman-mythology) by Thomas Bulfinch
+- [All In: An Autobiography](https://www.goodreads.com/book/show/43584584-all-in) by Billie Jean King
 - [Kaibyō: The Supernatural Cats of Japan](https://www.goodreads.com/en/book/show/34381128-kaiby) by Zack Davisson
 
 ## 2022
+- [Chemistry](https://www.goodreads.com/book/show/31684925-chemistry) by Weike Wang
+- [The Driver in the Driverless Car: How Our Technology Choices Will Create the Future](https://www.goodreads.com/en/book/show/32171250-the-driver-in-the-driverless-car) by Vivek Wadhwa, Alex Salkever
 - [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) by Cathy O'Neil
 - [Isabella of Castile: The First Renaissance Queen](https://www.goodreads.com/book/show/2196112.Isabella_of_Castile) by Nancy Rubin Stuart *
 - [Spain: A Unique History](https://www.goodreads.com/en/book/show/10066326-spain) by Stanley G. Payne

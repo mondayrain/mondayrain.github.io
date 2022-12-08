@@ -10,6 +10,14 @@ Here are some albums that I've really enjoyed:
 
 ## 2022
 
+### November
+- **Abstracto, Vol. 2** - _(2022)_ - Ariza
+- **Pang** - _(2019)_ - Caroline Polachek
+
+### October
+- **Nervous At Night** - _(2022)_ - Charlie Hickey
+- **Blue Rev** - _(2022)_ - Alvvays
+
 ### September
 - **Big Time** - _(2022)_ - Angel Olsen
 - **SAWAYAMA** - _(2020)_ - Rina Sawayama
