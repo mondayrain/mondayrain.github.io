@@ -29,7 +29,7 @@
     <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <description type="html"><![CDATA[stuff you can peruse]]></description>
-    <generator>Hugo 0.104.2</generator>
+    <generator>Hugo 0.108.0</generator>
     <dc:creator type="html"><![CDATA[John Doe]]></dc:creator>
     <language>en-us</language>
     <copyright>2022 Larissa Feng</copyright>
