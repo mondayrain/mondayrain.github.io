@@ -7,9 +7,12 @@ title: Reading List
 <br/>One of them is not reading them."
 <br/>- Ray Bradbury</i>
 
+**Note**: _I don't include regular subscriptions here, but I make an effort to support local journalism and long-print magazines. Please consider subscribing to your local municipal news organization if you haven't already!_
+
 ## Current
+- [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook) by Bruce Bueno de Mesquita & Alastair Smith
+- [Working Dollars: The VanCity Story](http://www.herschelhardin.ca/books/working.htm) by Herschel Hardin
 - [All In: An Autobiography](https://www.goodreads.com/book/show/43584584-all-in) by Billie Jean King
-- [Kaibyō: The Supernatural Cats of Japan](https://www.goodreads.com/en/book/show/34381128-kaiby) by Zack Davisson
 
 ## 2022
 - [Chemistry](https://www.goodreads.com/book/show/31684925-chemistry) by Weike Wang

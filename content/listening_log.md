@@ -10,6 +10,9 @@ Here are some albums that I've really enjoyed:
 
 ## 2022
 
+### December
+- **Rough Night** - _(2022)_ - Eden Samara
+
 ### November
 - **Abstracto, Vol. 2** - _(2022)_ - Ariza
 - **Pang** - _(2019)_ - Caroline Polachek
