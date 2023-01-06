@@ -8,6 +8,12 @@ title: Listening Log
 
 Here are some albums that I've really enjoyed:
 
+## 2023
+
+### January
+- **Hold On Baby** - _(2021)_ - Dijon
+- **Absolutely** - _(2022)_ - King Princess
+
 ## 2022
 
 ### December

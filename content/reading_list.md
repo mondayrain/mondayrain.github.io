@@ -10,9 +10,12 @@ title: Reading List
 **Note**: _I don't include regular subscriptions here, but I make an effort to support local journalism and long-print magazines. Please consider subscribing to your local municipal news organization if you haven't already!_
 
 ## Current
-- [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook) by Bruce Bueno de Mesquita & Alastair Smith
 - [Working Dollars: The VanCity Story](http://www.herschelhardin.ca/books/working.htm) by Herschel Hardin
 - [All In: An Autobiography](https://www.goodreads.com/book/show/43584584-all-in) by Billie Jean King
+- [The Unbearable Lightness of Being](https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being) by Milan Kundera
+
+## 2023
+- [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook) by Bruce Bueno de Mesquita & Alastair Smith *
 
 ## 2022
 - [Chemistry](https://www.goodreads.com/book/show/31684925-chemistry) by Weike Wang
