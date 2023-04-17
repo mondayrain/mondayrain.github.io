@@ -10,40 +10,47 @@ title: Reading List
 **Note**: _I don't include regular subscriptions here, but I make an effort to support local journalism and long-print magazines. Please consider subscribing to your local municipal news organization if you haven't already!_
 
 ## Current
-- [Working Dollars: The VanCity Story](http://www.herschelhardin.ca/books/working.htm) by Herschel Hardin
-- [All In: An Autobiography](https://www.goodreads.com/book/show/43584584-all-in) by Billie Jean King
-- [The Unbearable Lightness of Being](https://en.wikipedia.org/wiki/The_Unbearable_Lightness_of_Being) by Milan Kundera
+
+- [Real Quanta: Simplifying Quantum Physics for Einstein and Bohr](https://www.goodreads.com/en/book/show/34350160) by Martijn van Calmthout
+- [Cultish: The Language of Fanaticism](https://www.goodreads.com/en/book/show/55338982) by Amanda Montell
+- [A Curious History of Mathematics: The Big Ideas from Early Number Concepts to Chaos Theory](https://www.goodreads.com/book/show/18342764-a-curious-history-of-mathematics) by Joel Levy
+- [Representing Yourself In Court: How to Win Your Case on Your Own](https://www.goodreads.com/book/show/30624597-representing-yourself-in-court) by Devlin Farmer
 
 ## 2023
+
+- [When Women Were Dragons](https://www.goodreads.com/en/book/show/58783802) by Kelly Barnhill
+- [The Truth About Stories: A Native Narrative](https://www.goodreads.com/en/book/show/196430) by Thomas King
 - [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook) by Bruce Bueno de Mesquita & Alastair Smith *
 
 ## 2022
+
 - [Chemistry](https://www.goodreads.com/book/show/31684925-chemistry) by Weike Wang
 - [The Driver in the Driverless Car: How Our Technology Choices Will Create the Future](https://www.goodreads.com/en/book/show/32171250-the-driver-in-the-driverless-car) by Vivek Wadhwa, Alex Salkever
 - [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction) by Cathy O'Neil
 - [Isabella of Castile: The First Renaissance Queen](https://www.goodreads.com/book/show/2196112.Isabella_of_Castile) by Nancy Rubin Stuart *
 - [Spain: A Unique History](https://www.goodreads.com/en/book/show/10066326-spain) by Stanley G. Payne
-- [The Namesake](https://en.wikipedia.org/wiki/The_Namesake_(novel)) by Jhumpa Lahiri *
+- [The Namesake](<https://en.wikipedia.org/wiki/The_Namesake_(novel)>) by Jhumpa Lahiri *
 - [Love in the Time of Cholera](https://en.wikipedia.org/wiki/Love_in_the_Time_of_Cholera) by Gabriel García Márquez
 - [Words of Radiance](https://en.wikipedia.org/wiki/Words_of_Radiance) by Brandon Sanderson
 - [The Way of Kings](https://en.wikipedia.org/wiki/The_Way_of_Kings) by Brandon Sanderson *
 - [Creatures of a Day: And Other Tales of Psychotherapy](https://www.goodreads.com/book/show/22825544-creatures-of-a-day) by Irvin D. Yalom
 - [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) by Michael E. Gerber
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck) by Mark Manson
-- [Ru](https://en.wikipedia.org/wiki/Ru_(novel)) by Kim Thúy *
-- [The Pearl](https://en.wikipedia.org/wiki/The_Pearl_(novella)) by John Steinbeck
-- [Dune](https://en.wikipedia.org/wiki/Dune_(novel)) by Frank Herbert
+- [Ru](<https://en.wikipedia.org/wiki/Ru_(novel)>) by Kim Thúy *
+- [The Pearl](<https://en.wikipedia.org/wiki/The_Pearl_(novella)>) by John Steinbeck
+- [Dune](<https://en.wikipedia.org/wiki/Dune_(novel)>) by Frank Herbert
 
 ## 2021
-- [To Live](https://en.wikipedia.org/wiki/To_Live_(novel)) by Yu Hua *
+
+- [To Live](<https://en.wikipedia.org/wiki/To_Live_(novel)>) by Yu Hua *
 - [Wolf in White Van](https://en.wikipedia.org/wiki/Wolf_in_White_Van) by John Darnielle *
-- [Amsterdam](https://en.wikipedia.org/wiki/Amsterdam_(novel)) by Ian McEwan
+- [Amsterdam](<https://en.wikipedia.org/wiki/Amsterdam_(novel)>) by Ian McEwan
 - [Conflict Is Not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair](https://arsenalpulp.com/Books/C/Conflict-Is-Not-Abuse) by Sarah Schulman
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous
-- [The Secret Life of Bees](https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)) by Sue Monk Kidd *
+- [The Secret Life of Bees](<https://en.wikipedia.org/wiki/The_Secret_Life_of_Bees_(novel)>) by Sue Monk Kidd *
 - [Fat City](https://en.wikipedia.org/wiki/Fat_City) by Leonard Gardner
 - [Manhattan Beach](https://www.goodreads.com/book/show/34467031-manhattan-beach) by Jennifer Egan
-- [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by  Daniel J. Levitin
+- [This Is Your Brain on Music: The Science of a Human Obsession](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by Daniel J. Levitin
 - [A Complicated Kindness](https://en.wikipedia.org/wiki/A_Complicated_Kindness) by Miriam Toews
 - [Words Will Break Cement: The Passion of Pussy Riot](https://www.goodreads.com/book/show/18114206-words-will-break-cement) by Masha Gessen
 - [History of Wolves](https://www.goodreads.com/book/show/30183198-history-of-wolves) by Emily Fridlund *
@@ -59,10 +66,11 @@ title: Reading List
 - [Chop Suey Nation: The Legion Cafe and Other Stories from Canada’s Chinese Restaurants](https://www.goodreads.com/en/book/show/41150687-chop-suey-nation) by Ann Hui *
 - [21 Things You May Not Know About the Indian Act](https://www.goodreads.com/en/book/show/38620150-21-things-you-may-not-know-about-the-indian-act) by Bob Joseph *
 - [Brother](https://www.goodreads.com/book/show/36672820-brother) by David Chariandy
-- [Snow](https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)) by Orhan Pamuk
+- [Snow](<https://en.wikipedia.org/wiki/Snow_(Pamuk_novel)>) by Orhan Pamuk
 - [The Bell Jar](https://en.wikipedia.org/wiki/The_Bell_Jar) by Sylvia Plath
 
 ## 2020
+
 - [The Architecture of Happiness](https://en.wikipedia.org/wiki/The_Architecture_of_Happiness) by Alain de Botton
 - [Just Kids](https://en.wikipedia.org/wiki/Just_Kids) by Patti Smith *
 - [Power games: a political history of the Olympics](https://www.versobooks.com/books/2105-power-games) by Jules Boykoff
@@ -76,14 +84,14 @@ title: Reading List
 - [Binti](https://www.goodreads.com/book/show/25667918-binti) by Nnedi Okorafor
 - [Confessions of a Microfinance Heretic](https://www.goodreads.com/book/show/13234028-confessions-of-a-microfinance-heretic) by Hugh Sinclair
 - [Superpower, Interrupted: The Chinese History of the World](https://www.kobo.com/ca/en/ebook/superpower-interrupted) by Michael Schuman
-- [Go Tell It on the Mountain](https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)) by James Baldwin
+- [Go Tell It on the Mountain](<https://en.wikipedia.org/wiki/Go_Tell_It_on_the_Mountain_(novel)>) by James Baldwin
 - [The Discomfort Zone](https://en.wikipedia.org/wiki/The_Discomfort_Zone) by Jonathan Franzen
 - [Railsea](https://en.wikipedia.org/wiki/Railsea) by China Miéville
-- [The Stranger](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)) by Albert Camus
+- [The Stranger](<https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)>) by Albert Camus
 - [Drive: The Surprising Truth About What Motivates Us](https://www.goodreads.com/book/show/6452796-drive) by Daniel H. Pink
 - [The Artist At Work](https://en.wikipedia.org/wiki/The_Artist_at_Work) (<small><i>short story</i></small>) by Albert Camus *
 - [Axolotl](https://ciudadseva.com/texto/axolotl/) (<small><i>short story</i></small>) by Julio Cortázar
-- [All My Darling Daughters](https://en.wikipedia.org/wiki/Fire_Watch_(book)) (<small><i>short story</i></small>) by Connie Willis
+- [All My Darling Daughters](<https://en.wikipedia.org/wiki/Fire_Watch_(book)>) (<small><i>short story</i></small>) by Connie Willis
 - [Writing Better Lyrics](https://www.goodreads.com/book/show/695626.Writing_Better_Lyrics) by Pat Pattison <small>_(unfinished for now, slowly working through the exercises in the book!)_</small>
 - [The Tempest](https://en.wikipedia.org/wiki/The_Tempest) by William Shakespeare
 - [The Lottery](https://en.wikipedia.org/wiki/The_Lottery) (<small><i>short story</i></small>) by Shirley Jackson
@@ -97,6 +105,7 @@ title: Reading List
 - [The Fifth Season (The Broken Earth #1)](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin
 
 ## 2019
+
 - [Gingerbread](https://www.goodreads.com/book/show/40634915-gingerbread) by Helen Oyeyemi
 - [Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants ](https://www.goodreads.com/book/show/17465709-braiding-sweetgrass) by Robin Wall Kimmerer *
 - [A Scanner Darkly](https://en.wikipedia.org/wiki/A_Scanner_Darkly) by Philip K. Dick *
@@ -131,18 +140,18 @@ title: Reading List
 - [Outline](https://www.goodreads.com/book/show/21400742-outline) by Rachel Cusk *
 - [Americanah](https://www.goodreads.com/book/show/15796700-americanah) by Chimamanda Ngozi Adichie
 
-
 ## 2018
+
 - [A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/book/show/35108805-a-higher-loyalty) by James Comey
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love ](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you) by Cal Newport
-- [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by  Kerry Patterson,
-Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
+- [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) by Kerry Patterson,
+  Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [The Responsibility of Intellectuals](https://chomsky.info/19670223/) by Noam Chomsky
 - [Bel Canto](https://www.goodreads.com/book/show/5826.Bel_Canto) by Ann Patchett
 - [Mother Night](https://www.goodreads.com/book/show/9592.Mother_Night) by Kurt Vonnegut
 - [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni
 - [9-11: Was There an Alternative?](https://www.goodreads.com/book/show/38338.9_11) by Noam Chomsky
-- [The Little Buddhist Monk / The Proof](https://www.goodreads.com/book/show/32491842-the-little-buddhist-monk-the-proof) by  César Aira
+- [The Little Buddhist Monk / The Proof](https://www.goodreads.com/book/show/32491842-the-little-buddhist-monk-the-proof) by César Aira
 - [Ema, the Captive](https://www.goodreads.com/book/show/29082562-ema-the-captive) by César Aira
 - [Powerful: Building a Culture of Freedom and Responsibility](https://www.goodreads.com/book/show/36417234-powerfu) by Patty McCord
 - [Hills Like White Elephants](https://www.goodreads.com/book/show/13239950-hills-like-white-elephants) by Ernest Hemingway
@@ -158,7 +167,7 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [An Artist of the Floating World](https://www.goodreads.com/book/show/28922.An_Artist_of_the_Floating_World) by Kazuo Ishiguro *
 - [The Buried Giant](https://www.goodreads.com/book/show/22522805-the-buried-giant) by Kazuo Ishiguro *
 - [A Short History of Southeast Asia](https://www.goodreads.com/book/show/1653813.A_Short_History_of_South_East_Asia) by Peter Church
-- [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name) by  André Aciman *
+- [Call Me By Your Name](https://www.goodreads.com/book/show/36336078-call-me-by-your-name) by André Aciman *
 - [The Underground Railroad](https://www.goodreads.com/book/show/30555488-the-underground-railroad) by Colson Whitehead
 - [Marcovaldo](https://www.goodreads.com/book/show/18929.Marcovaldo) by Italo Calvino
 - [A Superior Man](https://www.goodreads.com/book/show/25330028-a-superior-man) by Paul Yee
@@ -168,11 +177,11 @@ Joseph Grenny, Ron McMillan, Al Switzler, and Stephen R. Covey
 - [Mother Night](https://www.goodreads.com/book/show/9592.Mother_Night?) by Kurt Vonnegut
 - [A Visit from the Goon Squad](https://www.goodreads.com/book/show/7331435-a-visit-from-the-goon-squad) by Jennifer Egan
 
-
 ## 2017
+
 - [Shantytown](https://www.goodreads.com/book/show/17574842-shantytown) by César Aira
 - [The
- Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) by M.R. Carey
+  Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) by M.R. Carey
 - [Armageddon in Retrospect](https://www.goodreads.com/book/show/2024223.Armageddon_in_Retrospect) by Kurt Vonnegut
 - [Doing Good Better: How Effective Altruism Can Help Make You Make a Difference](https://www.goodreads.com/book/show/23398748-doing-good-better) by William MacAskill
 - [Release It! Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
