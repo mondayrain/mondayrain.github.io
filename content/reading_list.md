@@ -12,13 +12,14 @@ title: Reading List
 ## Current
 
 - [Real Quanta: Simplifying Quantum Physics for Einstein and Bohr](https://www.goodreads.com/en/book/show/34350160) by Martijn van Calmthout
-- [Cultish: The Language of Fanaticism](https://www.goodreads.com/en/book/show/55338982) by Amanda Montell
 - [A Curious History of Mathematics: The Big Ideas from Early Number Concepts to Chaos Theory](https://www.goodreads.com/book/show/18342764-a-curious-history-of-mathematics) by Joel Levy
 - [Representing Yourself In Court: How to Win Your Case on Your Own](https://www.goodreads.com/book/show/30624597-representing-yourself-in-court) by Devlin Farmer
+- [That Time I Loved You](https://www.goodreads.com/en/book/show/35068946) by Carianne Leung
 
 ## 2023
-
+- [Cultish: The Language of Fanaticism](https://www.goodreads.com/en/book/show/55338982) by Amanda Montell
 - [When Women Were Dragons](https://www.goodreads.com/en/book/show/58783802) by Kelly Barnhill
+- [Foundation](https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)) by Isaac Asimov
 - [The Truth About Stories: A Native Narrative](https://www.goodreads.com/en/book/show/196430) by Thomas King
 - [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook) by Bruce Bueno de Mesquita & Alastair Smith *
 
@@ -180,8 +181,7 @@ title: Reading List
 ## 2017
 
 - [Shantytown](https://www.goodreads.com/book/show/17574842-shantytown) by César Aira
-- [The
-  Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) by M.R. Carey
+- [The Girl with All the Gifts](https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts) by M.R. Carey
 - [Armageddon in Retrospect](https://www.goodreads.com/book/show/2024223.Armageddon_in_Retrospect) by Kurt Vonnegut
 - [Doing Good Better: How Effective Altruism Can Help Make You Make a Difference](https://www.goodreads.com/book/show/23398748-doing-good-better) by William MacAskill
 - [Release It! Design and Deploy Production-Ready Software](https://www.goodreads.com/book/show/1069827.Release_It_) by Michael T. Nygard
