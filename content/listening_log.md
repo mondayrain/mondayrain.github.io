@@ -10,6 +10,11 @@ Here are some albums that I've really enjoyed:
 
 ## 2023
 
+## May
+
+- **BUMMER** - _(2021)_ - cleopatrick
+- **Is It Selfish If We Talk About Me Again** - _(2020)_ - Kacy Hill
+
 ### April
 
 - **Negro Swan** - _(2018)_ - Blood Orange

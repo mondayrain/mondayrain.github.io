@@ -10,13 +10,15 @@ title: Reading List
 **Note**: _I don't include regular subscriptions here, but I make an effort to support local journalism and long-print magazines. Please consider subscribing to your local municipal news organization if you haven't already!_
 
 ## Current
+- [A $500 House in Detroit: Rebuilding an Abandoned Home and an American City](https://www.goodreads.com/book/show/30753799-a-500-house-in-detroit) by Drew Philp
+- [Killers of a Certain Age](https://www.goodreads.com/en/book/show/60149532) by Deanna Raybourn
+- [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng
 
-- [Real Quanta: Simplifying Quantum Physics for Einstein and Bohr](https://www.goodreads.com/en/book/show/34350160) by Martijn van Calmthout
-- [A Curious History of Mathematics: The Big Ideas from Early Number Concepts to Chaos Theory](https://www.goodreads.com/book/show/18342764-a-curious-history-of-mathematics) by Joel Levy
-- [Representing Yourself In Court: How to Win Your Case on Your Own](https://www.goodreads.com/book/show/30624597-representing-yourself-in-court) by Devlin Farmer
-- [That Time I Loved You](https://www.goodreads.com/en/book/show/35068946) by Carianne Leung
 
 ## 2023
+- [We Are Not Like Them](https://www.goodreads.com/en/book/show/56898303) by Christine Pride & Jo Piazza
+- [A Curious History of Mathematics: The Big Ideas from Early Number Concepts to Chaos Theory](https://www.goodreads.com/book/show/18342764-a-curious-history-of-mathematics) by Joel Levy
+- [That Time I Loved You](https://www.goodreads.com/en/book/show/35068946) by Carianne Leung *
 - [Cultish: The Language of Fanaticism](https://www.goodreads.com/en/book/show/55338982) by Amanda Montell
 - [When Women Were Dragons](https://www.goodreads.com/en/book/show/58783802) by Kelly Barnhill
 - [Foundation](https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)) by Isaac Asimov
