@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="/">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="/">
     <title type="html"><![CDATA[Larissa Feng.]]></title>
     <subtitle type="html"><![CDATA[stuff you can peruse]]></subtitle>
-    <link href="/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/" rel="alternate" type="text/html" title="html" />
     <link href="/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
     <link href="/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
     <link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <link href="/index.json" rel="alternate" type="application/json" title="JSON" />
+    <link href="/index.json" rel="alternate" type="application/json" title="json" />
     <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
@@ -16,6 +16,6 @@
         <email>john@example.com</email>
     </author>
     <rights>2022 Larissa Feng</rights>
-    <generator uri="https://gohugo.io" version="0.108.0">Hugo</generator>
+    <generator uri="https://gohugo.io" version="0.113.0">Hugo</generator>
     <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
 </feed>
