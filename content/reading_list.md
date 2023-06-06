@@ -7,16 +7,16 @@ title: Reading List
 <br/>One of them is not reading them."
 <br/>- Ray Bradbury</i>
 
-**Note**: _I don't include regular subscriptions here, but I make an effort to support local journalism and long-print magazines. Please consider subscribing to your local municipal news organization if you haven't already!_
+** (I'm not sure I fully agree with those quote, to be honest)
 
 ## Current
 - [Palestine](https://en.wikipedia.org/wiki/Palestine_(comics)) by Joe Sacco
 - [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng
 - [Green Island](https://www.goodreads.com/en/book/show/25763894) by Shawna Yang Ryan
 
-
 ## 2023
 - [Disappearing Earth](https://en.wikipedia.org/wiki/Disappearing_Earth) by Julia Phillips *
+- [Recitatif](https://en.wikipedia.org/wiki/Recitatif) by Toni Morrison
 - [A $500 House in Detroit: Rebuilding an Abandoned Home and an American City](https://www.goodreads.com/book/show/30753799-a-500-house-in-detroit) by Drew Philp _(unfinished)_
 - [Killers of a Certain Age](https://www.goodreads.com/en/book/show/60149532) by Deanna Raybourn
 - [We Are Not Like Them](https://www.goodreads.com/en/book/show/56898303) by Christine Pride & Jo Piazza
