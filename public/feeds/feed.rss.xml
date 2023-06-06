@@ -7,7 +7,7 @@
     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
     xmlns:media="http://search.yahoo.com/mrss/"
-    xml:lang="en-us"
+    xml:lang="en"
     xml:base="/">
     <channel>
         <title type="html"><![CDATA[Larissa Feng.]]></title>
@@ -21,16 +21,16 @@
         <width>96</width>
         <height>96</height>
     </image>
-    <atom:link href="/" rel="alternate" type="text/html" title="HTML" />
+    <atom:link href="/" rel="alternate" type="text/html" title="html" />
     <atom:link href="/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
     <atom:link href="/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
     <atom:link href="/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
-    <atom:link href="/index.json" rel="alternate" type="application/json" title="JSON" />
+    <atom:link href="/index.json" rel="alternate" type="application/json" title="json" />
     <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
     <description type="html"><![CDATA[stuff you can peruse]]></description>
-    <generator>Hugo 0.104.1</generator>
+    <generator>Hugo 0.113.0</generator>
     <dc:creator type="html"><![CDATA[John Doe]]></dc:creator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>2022 Larissa Feng</copyright>
 </rss>
