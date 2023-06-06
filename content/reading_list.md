@@ -10,12 +10,15 @@ title: Reading List
 **Note**: _I don't include regular subscriptions here, but I make an effort to support local journalism and long-print magazines. Please consider subscribing to your local municipal news organization if you haven't already!_
 
 ## Current
-- [A $500 House in Detroit: Rebuilding an Abandoned Home and an American City](https://www.goodreads.com/book/show/30753799-a-500-house-in-detroit) by Drew Philp
-- [Killers of a Certain Age](https://www.goodreads.com/en/book/show/60149532) by Deanna Raybourn
+- [Palestine](https://en.wikipedia.org/wiki/Palestine_(comics)) by Joe Sacco
 - [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng
+- [Green Island](https://www.goodreads.com/en/book/show/25763894) by Shawna Yang Ryan
 
 
 ## 2023
+- [Disappearing Earth](https://en.wikipedia.org/wiki/Disappearing_Earth) by Julia Phillips *
+- [A $500 House in Detroit: Rebuilding an Abandoned Home and an American City](https://www.goodreads.com/book/show/30753799-a-500-house-in-detroit) by Drew Philp _(unfinished)_
+- [Killers of a Certain Age](https://www.goodreads.com/en/book/show/60149532) by Deanna Raybourn
 - [We Are Not Like Them](https://www.goodreads.com/en/book/show/56898303) by Christine Pride & Jo Piazza
 - [A Curious History of Mathematics: The Big Ideas from Early Number Concepts to Chaos Theory](https://www.goodreads.com/book/show/18342764-a-curious-history-of-mathematics) by Joel Levy
 - [That Time I Loved You](https://www.goodreads.com/en/book/show/35068946) by Carianne Leung *
