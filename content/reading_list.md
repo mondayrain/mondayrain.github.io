@@ -7,14 +7,16 @@ title: Reading List
 <br/>One of them is not reading them."
 <br/>- Ray Bradbury</i>
 
-** (I'm not sure I fully agree with those quote, to be honest)
+** (I'm not sure I fully agree with this quote, to be honest)
 
 ## Current
 - [Palestine](https://en.wikipedia.org/wiki/Palestine_(comics)) by Joe Sacco
+- [Sula](https://en.wikipedia.org/wiki/Sula_(novel)) by Toni Morrison
 - [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng
-- [Green Island](https://www.goodreads.com/en/book/show/25763894) by Shawna Yang Ryan
 
 ## 2023
+- [A Tale for the Time Being](https://en.wikipedia.org/wiki/A_Tale_for_the_Time_Being) by Ruth Ozeki
+- [If An Egyptian Cannot Speak English](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) by Noor Naga
 - [Disappearing Earth](https://en.wikipedia.org/wiki/Disappearing_Earth) by Julia Phillips *
 - [Recitatif](https://en.wikipedia.org/wiki/Recitatif) by Toni Morrison
 - [A $500 House in Detroit: Rebuilding an Abandoned Home and an American City](https://www.goodreads.com/book/show/30753799-a-500-house-in-detroit) by Drew Philp _(unfinished)_
