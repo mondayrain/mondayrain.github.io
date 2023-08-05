@@ -18,6 +18,7 @@ title: Reading List
 - [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng *
 - [A Tale for the Time Being](https://en.wikipedia.org/wiki/A_Tale_for_the_Time_Being) by Ruth Ozeki
 - [If An Egyptian Cannot Speak English](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) by Noor Naga
+- [Mistborn: The Finale Empire](https://en.wikipedia.org/wiki/Mistborn:_The_Final_Empire) by Brandon Sanderson
 - [Disappearing Earth](https://en.wikipedia.org/wiki/Disappearing_Earth) by Julia Phillips *
 - [Recitatif](https://en.wikipedia.org/wiki/Recitatif) by Toni Morrison
 - [A $500 House in Detroit: Rebuilding an Abandoned Home and an American City](https://www.goodreads.com/book/show/30753799-a-500-house-in-detroit) by Drew Philp _(unfinished)_
