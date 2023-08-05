@@ -10,11 +10,12 @@ title: Reading List
 ** (I'm not sure I fully agree with this quote, to be honest)
 
 ## Current
-- [Palestine](https://en.wikipedia.org/wiki/Palestine_(comics)) by Joe Sacco
 - [Sula](https://en.wikipedia.org/wiki/Sula_(novel)) by Toni Morrison
-- [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng
-
+- [Bad Feminist](https://en.wikipedia.org/wiki/Bad_Feminist) by Roxane Gay
+- [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by Robert M. Pirsig
+  
 ## 2023
+- [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng *
 - [A Tale for the Time Being](https://en.wikipedia.org/wiki/A_Tale_for_the_Time_Being) by Ruth Ozeki
 - [If An Egyptian Cannot Speak English](https://www.goodreads.com/book/show/57693584-if-an-egyptian-cannot-speak-english) by Noor Naga
 - [Disappearing Earth](https://en.wikipedia.org/wiki/Disappearing_Earth) by Julia Phillips *
