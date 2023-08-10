@@ -10,6 +10,11 @@ Here are some albums that I've really enjoyed:
 
 ## 2023
 
+## July
+
+- **Juno** - _(2021)_ - Remi Wolf
+- **comfortably in pain** - _(2022)_ - Dora Jar
+
 ## May
 
 - **Seventeen Going Under** - _(2022)_ - Sam Fender
