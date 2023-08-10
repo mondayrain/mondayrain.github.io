@@ -15,6 +15,7 @@ title: Reading List
 - [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by Robert M. Pirsig
   
 ## 2023
+- [White Butterfly])https://www.goodreads.com/book/show/189086.White_Butterfly) by Walter Mosley 
 - [Sula](https://en.wikipedia.org/wiki/Sula_(novel)) by Toni Morrison
 - [The Water Knife](https://en.wikipedia.org/wiki/The_Water_Knife) by Paolo Bacigalupi
 - [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng *
