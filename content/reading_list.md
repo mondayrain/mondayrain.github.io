@@ -15,7 +15,9 @@ title: Reading List
 - [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by Robert M. Pirsig
   
 ## 2023
-- [White Butterfly])https://www.goodreads.com/book/show/189086.White_Butterfly) by Walter Mosley 
+- [Yellowface](https://en.wikipedia.org/wiki/Yellowface_(novel)) by R.F. Kuang
+- [A Brief History of Korea: Isolation, War, Despotism and Revival: The Fascinating Story of a Resilient But Divided People](https://www.thriftbooks.com/w/a-brief-history-of-korea-isolation-war-despotism-and-revival-the-fascinating-story-of-a-resilient-but-divided-people_michael-j-seth/20170385/#edition=21469934&idiq=35215120) by Michael J. Seth
+- [White Butterfly](https://www.goodreads.com/book/show/189086.White_Butterfly) by Walter Mosley 
 - [Sula](https://en.wikipedia.org/wiki/Sula_(novel)) by Toni Morrison
 - [The Water Knife](https://en.wikipedia.org/wiki/The_Water_Knife) by Paolo Bacigalupi
 - [Little Fires Everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere) by Celeste Ng *
