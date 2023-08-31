@@ -10,6 +10,10 @@ Here are some albums that I've really enjoyed:
 
 ## 2023
 
+## August
+- **SUGAR EP.** - _(2023)_ - Tash Sultana
+- **Stay Proud of Me** - _(2022)_ - NoSo
+
 ## July
 
 - **Juno** - _(2021)_ - Remi Wolf
