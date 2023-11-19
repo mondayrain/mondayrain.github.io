@@ -10,7 +10,19 @@ Here are some albums that I've really enjoyed:
 
 ## 2023
 
+## November
+- **Something To Give Each Other** - _(2023)_ - Troye Sivan
+
+## October
+- **Re: This Is Why** - _(2023)_ - Paramore
+- **CALL ME IF YOU GET LOST** - _(2023)_ - Tyler, The Creator
+
+## September
+- **El Mal Querer** - _(2018)_ - ROSALÍA
+- **Apolonio** - _(2020)_ - Omar Apollo
+
 ## August
+- **The Last Songs I'll Write About You** - _(2023)_ - BLÜ EYES
 - **SUGAR EP.** - _(2023)_ - Tash Sultana
 - **Stay Proud of Me** - _(2022)_ - NoSo
 
