@@ -10,11 +10,13 @@ title: Reading List
 ** (I'm not sure I fully agree with this quote, to be honest)
 
 ## Current
-- [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) by Liu Cixin
-- [Bad Feminist](https://en.wikipedia.org/wiki/Bad_Feminist) by Roxane Gay
+- [The God of Small Things](https://en.wikipedia.org/wiki/The_God_of_Small_Things) by Arundhati Roy
+- [The Artist's Way](https://juliacameronlive.com/the-artists-way/) by Julia Cameron
 - [Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance) by Robert M. Pirsig
   
 ## 2023
+- [She Who Became the Sun](https://en.wikipedia.org/wiki/She_Who_Became_the_Sun) by Shelley Parker-Chan
+- [Bad Feminist](https://en.wikipedia.org/wiki/Bad_Feminist) by Roxane Gay
 - [Yellowface](https://en.wikipedia.org/wiki/Yellowface_(novel)) by R.F. Kuang
 - [A Brief History of Korea: Isolation, War, Despotism and Revival: The Fascinating Story of a Resilient But Divided People](https://www.thriftbooks.com/w/a-brief-history-of-korea-isolation-war-despotism-and-revival-the-fascinating-story-of-a-resilient-but-divided-people_michael-j-seth/20170385/#edition=21469934&idiq=35215120) by Michael J. Seth
 - [White Butterfly](https://www.goodreads.com/book/show/189086.White_Butterfly) by Walter Mosley 
